@@ -1,7 +1,6 @@
 title=Books
 date=2013-08-25
 type=page
-tags=book
 status=published
 ~~~~~~
 

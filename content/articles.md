@@ -1,5 +1,5 @@
 title=Articles
-date=2013-08-25
+date=2022-02-01
 type=page
 tags=page
 status=published
@@ -7,7 +7,7 @@ status=published
 
 Ted's been writing articles, books and white papers since the early '90s, covering a span of technologies and topics that includes C++ in the early days, to Java and .NET more recently, to psychology, philosophy, and virtual machine internals.
 
-All of the articles below are predominantly in reverse-chronological order, gathered by periodical.
+All of the articles below are predominantly in reverse-chronological order, gathered by periodical. Sadly, due to the passage of time and the entropy of the business world, some of these pieces are no longer available on the Internet.
 
 ### MSDN Magazine
 
@@ -91,7 +91,7 @@ Working Programmer (column)
     * [Exploring NSpec](https://msdn.microsoft.com/en-us/magazine/05fe5db4-5fe0-4410-b424-a834d421a248)
     * [Going Dynamic with the Gemini Library](https://msdn.microsoft.com/en-us/magazine/affdae21-1d9d-433d-a137-970eed18b19c)
 
-* [Capturing Importance Business Logic (in LOLCODE)](https://msdn.microsoft.com/en-us/magazine/df442300-dd4c-40f3-871f-ef65bc8aa678) (one of my favorites)
+* [Capturing Importance Business Logic (in LOLCODE)](https://msdn.microsoft.com/en-us/magazine/df442300-dd4c-40f3-871f-ef65bc8aa678) (one of my favorites; it's not often you get to write a professional piece on an esoteric language, and the editors were even kind enough to let my cats get an editorial review credit in on it)
 
 * [Noda Time](https://msdn.microsoft.com/en-us/magazine/d5957527-e0e7-4f72-976a-287f30997e9b)
 
@@ -153,14 +153,14 @@ Working Programmer (column)
 
 *(CODE Magazine is an independently-published periodical that focuses on the Microsoft technology sphere, most notably the .NET programming environment. I did a half-dozen "feature pieces" for them, taking a deeper dive into topics at the time that weren't as familiar to the average .NET developer (CODE's core audience).)*
 
+* [Java](https://www.codemag.com/Article/1811081/Java)
 * [Docker](https://www.codemag.com/Article/1805071/Docker)
+* [Rust](https://www.codemag.com/Article/1609101/Rust)
+* [Go](https://www.codemag.com/Article/1607061/Go)
 * [Dynamic Languages 101](https://www.codemag.com/Article/1206071/Dynamic-Languages-101)
 * [F# 101](https://www.codemag.com/Article/0809051/F#-101)
-* [Go](https://www.codemag.com/Article/1607061/Go)
-* [Rust](https://www.codemag.com/Article/1609101/Rust)
-* [Java](https://www.codemag.com/Article/1811081/Java)
 
-*(The Managed Coder column was a back-of-the-magazine editorial column I wrote that covered a variety of different topics; the later topics dove more deeply into abstract thought pieces, examining the intersection of programming with psychology and philosophy.)*
+*(The Managed Coder column was a back-of-the-magazine editorial column I wrote from 2009 through 2020 that covered a variety of different topics; the later topics dove more deeply into abstract thought pieces, examining the intersection of programming with psychology and philosophy.)*
 
 * [On Endings](https://www.codemag.com/Article/2003091/On-Endings)
 * [On Contributions](https://www.codemag.com/Article/2001101/On-Contributions)
@@ -312,6 +312,8 @@ Oracle TechNet is the website for all things Oracle, ranging from their database
 
 #### Google Cloud Platform
 
+*(This was a series commissioned by Google to introduce developers to the Google Cloud Platform)*
+
 * [Getting Started](https://www.codeproject.com/Articles/684723/Google-Cloud-Platform-Getting-Started-with-Google)
 * [Deploying with AppEngine](https://www.codeproject.com/Articles/684732/Google-Cloud-Platform-Deploying-with-Google-App-En)
 * [User Management](https://www.codeproject.com/Articles/689535/Google-Cloud-Platform-User-Management)
@@ -323,40 +325,35 @@ Oracle TechNet is the website for all things Oracle, ranging from their database
 
 ### Other Articles
 
-Besides those powerhouses, Ted's also written a number of pieces that are scattered across the Internet.
+*(These are articles that are scattered across the Internet, often as one-offs, sometimes as a series.)*
 
-* Quite possibly my most famous piece, "The Vietnam of Computer Science", available on <a href="http://blogs.tedneward.com/2006/06/26/The+Vietnam+Of+Computer+Science.aspx">my blog</a>, generated some interest from the OODBMS community. 
-* They asked me to write a followup, <a href="http://odbms.org/download/031.02%20Neward%20Avoiding%20the%20Quagmire%20May%202007.PDF">"Avoiding the Quagmire"</a> (ODBMS.org).
-* Comparing LINQ and its Contemporaries (Microsoft)
+* Quite possibly my most famous piece, "The Vietnam of Computer Science", available on <a href="http://blogs.tedneward.com/2006/06/26/The+Vietnam+Of+Computer+Science.aspx">my blog</a>.
+* The Vietnam of Computer Science generated some interest from the OODBMS community, and they asked me to write a followup, <a href="http://odbms.org/download/031.02%20Neward%20Avoiding%20the%20Quagmire%20May%202007.PDF">"Avoiding the Quagmire"</a> (ODBMS.org).
+* *Comparing LINQ and its Contemporaries* (Microsoft)
 * I wrote a half-dozen articles for the MSDN website, as part of a series we called "Pragmatic Architecture":
-    * Layering
-    * Security
-    * User Interface
-    * Agile Development
-    * Mission Critical
-    * Data Access
+    * *Layering*
+    * *Security*
+    * *User Interface*
+    * *Agile Development*
+    * *Mission Critical*
+    * *Data Access*
 * NFJS Magazine:
-    * Functional Java, Part 1
-    * Functional Java, Part 2
-    * Collections Fu, Part 1
-    * Collections Fu, Part 2
-* Learn F# Programming (developerFusion.com)
-* Adrian Trenaman and I wrote a semi-humorous "interview" for TheServerSide that they broke up into a variety of different parts:
-    * Contract-First or Code-First Design, Part 1
-    * Contract-First or Code-First Design, Part 2
-    * Contract-First or Code-First Design, Part 3
-    * Contract-First or Code-First Design, Part 4
-    * Contract-First or Code-First Design, Part 5
+    * *Functional Java, Part 1*
+    * *Functional Java, Part 2*
+    * *Collections Fu, Part 1*
+    * *Collections Fu, Part 2*
+* *Learn F# Programming* (developerFusion.com)
+* Adrian Trenaman and I wrote a semi-humorous "interview" for TheServerSide, called *Contract-First or Code-First Design*, that they broke up into five parts
 * "The Interop Files", also for TheServerSide:
-    * A Dirt-Simple Web Service
-    * Interop Across the Wire
-    * A look at out-of-proc or RPC interop
-    * Interoperability: Check your politics at the door
+    * *A Dirt-Simple Web Service*
+    * *Interop Across the Wire*
+    * *A look at out-of-proc or RPC interop*
+    * *Interoperability: Check your politics at the door*
 * InfoQ:
-    * Busy Java Developer's Guide to Flex
-    * Using Java to Crack Office 2007
-    * Rich Office Client Applications
-    * In-process Interoperability
-* Where SOA ends (ITKnowledgeExchange)
-* Forking and Joining Java to Maximize Multicore Power (DevX.com)
-* Multi-Core Mythbusters (DevX.com)
+    * *Busy Java Developer's Guide to Flex*
+    * *Using Java to Crack Office 2007*
+    * *Rich Office Client Applications*
+    * *In-process Interoperability*
+* *Where SOA ends* (ITKnowledgeExchange)
+* *Forking and Joining Java to Maximize Multicore Power* (DevX.com)
+* *Multi-Core Mythbusters* (DevX.com)

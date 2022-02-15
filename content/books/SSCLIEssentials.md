@@ -3,7 +3,7 @@ image=sscliess.gif
 link=http://www.newardassociates.com/files/SSCLI2.pdf
 date=2013-08-25
 type=book
-tags=book, clr, vm
+tags=book, clr, virtual machine
 status=published
 ~~~~~~
 

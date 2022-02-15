@@ -3,7 +3,7 @@ image=csharpnut.gif
 link=http://www.oreilly.com/catalog/csharpnut
 date=2013-08-25
 type=book
-tags=book, clr
+tags=book, clr, virtual machine
 status=published
 ~~~~~~
 

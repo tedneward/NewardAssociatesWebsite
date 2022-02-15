@@ -3,7 +3,7 @@ image=advOWL.jpg
 link=http://www.manning.com/books/neward2
 date=2013-08-25
 type=book
-tags=book, clr, vm
+tags=book, windows, c++
 status=published
 ~~~~~~
 

@@ -8,56 +8,81 @@ status=published
 Ted's done a ton of projects over his career. These are some of them; details are deliberately left vague to protect client confidentiality except where clients have given explicit permission to link. Have a look and see if any of these seem similar to what you might be looking for somebody to do for you.
 
 <ul class="nav nav-list">
+  <li class="nav-header">Management</li>
+    <li><a href="#rmtc">Technology Culture Management</a></li>
+    <li><a href="#rmps">Platform Strategy Management</a></li>
+    <li><a href="#ssst">Solutions Application Engineering Development Management</a></li>
+    <li><a href="#ssdr">Developer Relations Team Management</a></li>
+    <li><a href="#rrd">IT Management Consulting - Enterprise Software</a></li>
+    <li><a href="#itrellis">CTO - Software Development and Management Consulting</a></li>
+    <li><a href="#ltl">CTO - Women's Fashion E-Commerce Portal</a></li>
   <li class="nav-header">Consultation</li>
-  <li><a href="#sc">Developer Marketing Consulting - Software Tools</a></li>
-  <li><a href="#awp">IT Management Consulting - Manufacturing</a></li>
-  <li><a href="#sig">IT Leadership - Crop Insurance</a></li>
-  <li><a href="#pe">Due Diligence Expert - Pharmacology</a></li>
-  <li><a href="#mr">.NET Language Compiler Host - Microsoft</a></li>
-  <li><a href="#tl">.NET Project Rescue - Public Transportation</a></li>
-  <li><a href="#hcc">CORBA Consultation - Health Care Management</a></li>
-  <li><a href="#cor">EJB Consultation - Application Dev Platform</a></li>
-  <li><a href="#cmp">EJB Consultation - Remote</a></li>
-  <li><a href="#mm">CORBA Analysis/Consultation - Mining Equipment</a></li>
-  <li class="nav-header">Architecture/Management</li>
-  <li><a href="#rrd">IT Management Consulting - Enterprise Software</a></li>
-  <li><a href="#itrellis">CTO - Software Development and Management Consulting</a></li>
-  <li><a href="#ltl">CTO - Women's Fashion E-Commerce Portal'</a></li>
-  <li><a href="#wab">Solutions Architect - Healthcare Provider</a></li>
-  <li><a href="#lpl">Solutions Architect - Financial Services</a></li>
-  <li><a href="#kpmg">Solutions Architect - Professional Services</a></li>
-  <li><a href="#phy">.NET Developer - Ocular Biology</a></li>
-  <li><a href="#ri">XML Services - Transportation Broker</a></li>
-  <li><a href="#ad">Technical Expert - Performance Analysis Product</a></li>
-  <li><a href="#ucd">Java Architect - University Accounting</a></li>
-  <li><a href="#ef">Java Technical Lead - Student Aid Portal</a></li>
-  <li><a href="#cd">C++ Product Lead - Telecommunications Billing</a></li>
-  <li><a href="#pb">Java Technical Lead - Rapid Solutions Development</a></li>
-  <li class="nav-header">Development</li>
-  <li><a href="#avi">iOS Development - Health Care/Diagnosis</a></li>
-  <li><a href="#sav">.NET Development - Retailer</a></li>
-  <li><a href="#psesd">Scala Development - Public School District</a></li>
-  <li><a href="#ph">Android Development - Conference Entertainment</a></li>
-  <li><a href="#cc">Technical Expert - Consumer Beverage Producter</a></li>
-  <li><a href="#ft">Android Developer - Hospital Asset Mgmt</a></li>
-  <li><a href="#wadot">.NET Developer - Dept of Transportation</a></li>
-  <li><a href="#cie">.NET Development - Multiplayer Gaming</a></li>
-  <li><a href="#gt">Java/Oracle Developer - Genetics Research</a></li>
-  <li><a href="#ds">Java Developer - Telecom Product Platform</a></li>
-  <li><a href="#ibex">C++ Developer - Communication Product</a></li>
-  <li><a href="#ah">C++ Developer - Healthcare Services</a></li>
-  <li><a href="#iq">C++ Developer - Personal Finance</a></li>
-  <li><a href="#tv">C++ Developer - Manufacturing Software</a></li>
+    <li><a href="#sc">Developer Marketing Consulting - Software Tools</a></li>
+    <li><a href="#awp">IT Management Consulting - Manufacturing</a></li>
+    <li><a href="#sig">IT Leadership - Crop Insurance</a></li>
+    <li><a href="#pe">Due Diligence Expert - Pharmacology</a></li>
+    <li><a href="#mr">.NET Language Compiler Host - Microsoft</a></li>
+    <li><a href="#tl">.NET Project Rescue - Public Transportation</a></li>
+    <li><a href="#hcc">CORBA Consultation - Health Care Management</a></li>
+    <li><a href="#cor">EJB Consultation - Application Dev Platform</a></li>
+    <li><a href="#cmp">EJB Consultation - Remote</a></li>
+    <li><a href="#mm">CORBA Analysis/Consultation - Mining Equipment</a></li>
   <li class="nav-header">Training</li>
-  <li><a href="#uw">Classroom Instructor - College Education</a></li>
-  <li><a href="#bc">Classroom Instructor - College Education</a></li>
-  <li><a href="#ps">Course Author - Online Training</a></li>
-  <li><a href="#dm">Course Author - Onsite Training</a></li>
+    <li><a href="#uw">Classroom Instructor - College Education</a></li>
+    <li><a href="#bc">Classroom Instructor - College Education</a></li>
+    <li><a href="#ps">Course Author - Online Training</a></li>
+    <li><a href="#dm">Course Author - Onsite Training</a></li>
   <li class="nav-header">Research</li>
-  <li><a href="#fe">Java/.NET Interop Expert - Consumer Shipping</a></li>
-  <li><a href="#p">C/PalmOS Research Lead - Mobile R&amp;D</a></li>
+    <li><a href="#fe">Java/.NET Interop Expert - Consumer Shipping</a></li>
+    <li><a href="#p">C/PalmOS Research Lead - Mobile R&amp;D</a></li>
+  <li class="nav-header">Architecture</li>
+    <li><a href="#wab">Solutions Architect - Healthcare Provider</a></li>
+    <li><a href="#lpl">Solutions Architect - Financial Services</a></li>
+    <li><a href="#kpmg">Solutions Architect - Professional Services</a></li>
+    <li><a href="#phy">.NET Developer - Ocular Biology</a></li>
+    <li><a href="#ri">XML Services - Transportation Broker</a></li>
+    <li><a href="#ad">Technical Expert - Performance Analysis Product</a></li>
+    <li><a href="#ucd">Java Architect - University Accounting</a></li>
+    <li><a href="#ef">Java Technical Lead - Student Aid Portal</a></li>
+    <li><a href="#cd">C++ Product Lead - Telecommunications Billing</a></li>
+    <li><a href="#pb">Java Technical Lead - Rapid Solutions Development</a></li>
+  <li class="nav-header">Development</li>
+    <li><a href="#avi">iOS Development - Health Care/Diagnosis</a></li>
+    <li><a href="#sav">.NET Development - Retailer</a></li>
+    <li><a href="#psesd">Scala Development - Public School District</a></li>
+    <li><a href="#ph">Android Development - Conference Entertainment</a></li>
+    <li><a href="#cc">Technical Expert - Consumer Beverage Producter</a></li>
+    <li><a href="#ft">Android Developer - Hospital Asset Mgmt</a></li>
+    <li><a href="#wadot">.NET Developer - Dept of Transportation</a></li>
+    <li><a href="#cie">.NET Development - Multiplayer Gaming</a></li>
+    <li><a href="#gt">Java/Oracle Developer - Genetics Research</a></li>
+    <li><a href="#ds">Java Developer - Telecom Product Platform</a></li>
+    <li><a href="#ibex">C++ Developer - Communication Product</a></li>
+    <li><a href="#ah">C++ Developer - Healthcare Services</a></li>
+    <li><a href="#iq">C++ Developer - Personal Finance</a></li>
+    <li><a href="#tv">C++ Developer - Manufacturing Software</a></li>
 </ul>
 
+<div class="row-fluid" id="rmtc">
+  <h3>Financial Services and Products - Detroit, MI</h3>
+  <h4>Technology Culture Management</h4>
+  <p></p>
+</div>
+<div class="row-fluid" id="rmps">
+  <h3>Financial Services and Products - Detroit, MI</h3>
+  <h4>Platform Strategy Management</h4>
+  <p></p>
+</div>
+<div class="row-fluid" id="ssst">
+  <h3>Cloud-based Collaboration/Productivity Product - Bellevue, WA</h3>
+  <h4>Solutions Application Engineering Development Management</h4>
+  <p></p>
+</div>
+<div class="row-fluid" id="ssdr">
+  <h3>Cloud-based Collaboration/Productivity Product - Bellevue, WA</h3>
+  <h4>Developer Relations Team Management</h4>
+  <p></p>
+</div>
 <div class="row-fluid" id="sc">
   <h3>Software Development Tools - Remote</h3>
   <h4>Developer Marketing Consulting</h4>

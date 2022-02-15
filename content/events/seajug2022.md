@@ -5,7 +5,7 @@ description=Seattle Java User's Group meeting.
 start=2022-05-17
 end=2022-05-17
 type=event
-tags=speaking
+tags=speaking, event, jvm, native
 status=published
 ~~~~~~
 

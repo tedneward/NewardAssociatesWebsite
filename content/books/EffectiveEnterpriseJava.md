@@ -3,7 +3,7 @@ image=effectjava.jpg
 link=http://www.awprofessional.com/title/0321130006
 date=2013-08-25
 type=book
-tag=book, jvm
+tag=book, jvm, enterprise
 status=published
 ~~~~~~
 

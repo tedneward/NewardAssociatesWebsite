@@ -1,6 +1,6 @@
-title=Events
-type=eventindex
-date=2013-05-08
+title=Tags
+type=tagindex
+date=2022-02-01
 status=published
 ~~~~~~
 

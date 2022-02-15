@@ -1,5 +1,6 @@
-title=Events
-type=eventindex
+title=Blog
+type=blogindex
+tags=blog
 date=2013-05-08
 status=published
 ~~~~~~
