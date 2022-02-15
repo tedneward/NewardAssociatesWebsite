@@ -3,7 +3,8 @@
 	<#include "menu.ftl">
 
 	<div class="page-header">
-		<h1>Talk: ${content.title}</h1>
+	<h1>${content.title}</h1>
+	<p><em>${content.audience}</em></p>
 	</div>
 
 	<p>${content.body}</p>
