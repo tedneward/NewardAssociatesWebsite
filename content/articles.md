@@ -11,7 +11,7 @@ All of the articles below are predominantly in reverse-chronological order, gath
 
 ### MSDN Magazine
 
-MSDN Magazine is *(sadly, was; MSDN Magazine shut down at the end of 2019)* the print periodical dedicated to the Microsoft technology sphere, stretching all the way back to its days as "Microsoft Systems Journal" (MSJ) back in the 90's. Ted's written a number of feature pieces for them, currently writes a monthly column, and even served a stint as the Guest Editor-in-Chief for one issue.
+MSDN Magazine is *(sadly, was; MSDN Magazine shut down at the end of 2019)* the print periodical dedicated to the Microsoft technology sphere, stretching all the way back to its days as "Microsoft Systems Journal" (MSJ) back in the 90's. I wrote a number of feature pieces for them, currently writes a monthly column, and even served a stint as the Guest Editor-in-Chief for one issue.
 
 * All of my MSDN Magazine content, [via MSDN Search](http://msdn.microsoft.com/en-us/magazine/ee532098.aspx?sdmr=TedNeward&sdmi=authors)
 * [Editor's Note: Flex Your Data](http://msdn.microsoft.com/en-us/magazine/063f98b0-e77c-414b-80b3-0dfa733f2a89): Written as a fill-in for a friend of mine who was Editor-in-Chief at the time
@@ -38,7 +38,7 @@ Working Programmer (column)
 
 * The MEAN Series ("How to be MEAN")
 
-    This was, clearly, the longest series of all of them, partly because at the time so much of this was brand-new to the .NET community and it deserved to be explored in greater detail. Much of this holds up still, but much has also gone the way of the dodo bird: Yeoman really isn't a "thing" much anymore, it seems, nor is Grunt a popular build tool for NodeJS applications, nobody talks about Mongoose anymore, Express isn't the first tool of choice for NodeJS HTTP services (but is often layered underneath other things), and Passport appears to have given way to Auth-and-Auth services like Okta/Auth0. *sigh*
+    *(This was, clearly, the longest series of all of them, partly because at the time so much of this was brand-new to the .NET community and it deserved to be explored in greater detail. Much of this holds up still, but much has also gone the way of the dodo bird: Yeoman really isn't a "thing" much anymore, it seems, nor is Grunt a popular build tool for NodeJS applications, nobody talks about Mongoose anymore, Express isn't the first tool of choice for NodeJS HTTP services (but is often layered underneath other things), and Passport appears to have given way to Auth-and-Auth services like Okta/Auth0. Time, it seems, marches on.)*
 
     * [End-to-End](https://msdn.microsoft.com/en-us/magazine/mt832859.aspx)
     * [Testing Angularly](https://msdn.microsoft.com/en-us/magazine/mt830368.aspx)
@@ -149,9 +149,9 @@ Working Programmer (column)
 * [Mixing and Matching Languages](http://msdn.microsoft.com/en-us/magazine/159b58b3-f1df-4df6-bfa1-5448369b8c28)
 
   
-<h3 id="code">CODE Magazine</h3>
+### CODE Magazine
 
-CODE Magazine is an independently-published periodical that focuses on the Microsoft technology sphere, most notably the .NET programming environment. I did a half-dozen "feature pieces" for them, taking a deeper dive into topics at the time that weren't as familiar to the average .NET developer (CODE's core audience).
+*(CODE Magazine is an independently-published periodical that focuses on the Microsoft technology sphere, most notably the .NET programming environment. I did a half-dozen "feature pieces" for them, taking a deeper dive into topics at the time that weren't as familiar to the average .NET developer (CODE's core audience).)*
 
 * [Docker](https://www.codemag.com/Article/1805071/Docker)
 * [Dynamic Languages 101](https://www.codemag.com/Article/1206071/Dynamic-Languages-101)
@@ -160,7 +160,7 @@ CODE Magazine is an independently-published periodical that focuses on the Micro
 * [Rust](https://www.codemag.com/Article/1609101/Rust)
 * [Java](https://www.codemag.com/Article/1811081/Java)
 
-The Managed Coder column was a back-of-the-magazine editorial column I wrote that covered a variety of different topics; the later topics dove more deeply into abstract thought pieces, examining the intersection of programming with psychology and philosophy.
+*(The Managed Coder column was a back-of-the-magazine editorial column I wrote that covered a variety of different topics; the later topics dove more deeply into abstract thought pieces, examining the intersection of programming with psychology and philosophy.)*
 
 * [On Endings](https://www.codemag.com/Article/2003091/On-Endings)
 * [On Contributions](https://www.codemag.com/Article/2001101/On-Contributions)
@@ -227,134 +227,136 @@ The Managed Coder column was a back-of-the-magazine editorial column I wrote tha
 * [Functional Programming in C# 2.0](https://www.codemag.com/Article/0906101)
 * [Why the Next Five Years Will Be About Programming Languages](https://www.codemag.com/Article/0903131)
 
-<h3 id="devWorks">IBM developerWorks</h3>
+### IBM developerWorks
 
 In addition to a couple of feature pieces, developerWorks asked Ted to write two long-running columns, one on the "Five Things You Didn't Know" theme, one on the object-oriented database db4o (back before NoSQLs were cool again), and one on the functional-object hybrid language Scala.
 
-<ul>
-* [](http://www.ibm.com/developerworks/views)va/libraryview.jsp?sort_by=&show_abstract=true&show_all=&search_flag=&contentarea_by=Java+technology&search_by=Neward&topic_by=-1&industry_by=-1&type_by=All+Types&ibm-search=Search">(All articles of Ted's on dW by search)</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-javaresources/index.html">Essential Java resources</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-cobol/index.html">Dead like COBOL</a></li>
-* [](http://www.ibm.com/developerworks/libra)j-javaroundtable/index.html">Java platform roundtable, Spring 2010</a> (as a participant, not author)</li>
-</ul>
-<p>Five Things You Didn't Know...</p>
-<ul>
-* [](http://www.ibm.com/developerworks/java/)rary/j-5things1/index.html">... about Java Object Serialization</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-5things2/index.html">... about the Java Collections API, Part 1</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-5things3/index.html">... about the Java Collections API, Part 2</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-5things4/index.html">... about java.util.concurrent, Part 1</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-5things5/index.html">... about  java.util.concurrent, Part 2</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-5things6/index.html">... about JARs</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-5things7/index.html">... about Java Performance Monitoring, Part 1</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-5things8/index.html">... about Java Performance Monitoring, Part 2</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-5things9/index.html">... about the Java Scripting API</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-5things10/index.html">... about Java Database Connectivity (JDBC)</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-5things11/index.html">... about Java command-line flags</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-5things12/index.html">... about everyday Java tools</a></li>
-</ul>
-<p>The Busy Developer's Guide to Scala (series):</p>
-<ul>
-* [](http://www.ibm.com/developerworks/java/)rary/j-scala01228/index.html">Functional programming for the object-oriented</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-scala02198/index.html">Class action</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-scala03268/index.html">Don't get thrown for a loop!</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-scala04298/index.html">Of traits and behaviors</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-scala05298/index.html">Implementation inheritance</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-scala06278/index.html">Collection types</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-scala07298/index.html">Packages and access modifiers</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-scala08268/index.html">Building a calculator, Part 1</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-scala10248/index.html">Building a calculator, Part 2</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-scala11218/index.html">Building a calculator, Part 3</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-scala12228/index.html">Scala and servlets</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-scala02049/index.html">Explore Scala concurrency</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-scala04109/index.html">Dive deeper into Scala concurrency</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-scala05059/index.html">Scala + Twitter = Scitter</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-scala06029/index.html">Enhancing the Scitter library</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-scala10209/index.html">Updating Twitter, with Scitter</a></li>
-</ul>
-<p>The Busy Developer's Guide to db4o (series):</p>
-<ul>
-* [](http://www.ibm.com/developerworks/java/)rary/j-db4o1/index.html">Introduction and review</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-db4o2/index.html">Queries, updates and identity</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-db4o3/index.html">Database refactoring</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-db4o4/index.html">Structured objects and collections</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-db4o5/index.html">Arrays and Collections</a></li>
-* [](http://www.ibm.com/developerworks/java/)rary/j-db4o6/index.html">Beyond simple objects</a></li>
-</ul>
+*(Sadly, as developerWorks shuttered, many of these links became broken; I'd love to find them in the wayback machine, but a quick pass didn't yield up the links.)*
 
-<h3 id="otn">Oracle TechNet</h3>
+* [All of my current content](https://developer.ibm.com/?q=Ted%20Neward) on developerWorks/developer.ibm.com
+
+#### [The Five Things You Didn't Know About...](https://developer.ibm.com/series/5-things-you-didnt-know-about/) Series
+
+This particular series was a suggestion from my editor at dW, Jenni Aloi, and turned into one of the most popular series on dW.
+
+* [Java Object Serialization](https://developer.ibm.com/articles/j-5things1/)
+* [Java 6 Collections API, Part 1](https://developer.ibm.com/articles/j-5things2/)
+* [Java 6 Collections API, Part 2](https://developer.ibm.com/articles/j-5things3/)
+* [java.util.concurrent, Part 1](https://developer.ibm.com/articles/j-5things4/)
+* [java.util.concurrent, Part 2](https://developer.ibm.com/articles/j-5things5/)
+* [JARs](https://developer.ibm.com/articles/j-5things6/)
+* [Java performance monitoring, Part 1](https://developer.ibm.com/articles/j-5things7/)
+* [Java performance monitoring, Part 2](https://developer.ibm.com/articles/j-5things8/)
+* [JDBC (Java Datbase Connectivity)](https://developer.ibm.com/articles/j-5things10/)
+* [Command-line flags for the JVM](https://developer.ibm.com/articles/j-5things11/)
+* [Everyday Java Tools](https://developer.ibm.com/articles/j-5things12/)
+
+#### The Busy Developer's Guide to Scala Series
+
+*(Sadly, this series appears to be removed from the IBM website.)*
+
+* Functional programming for the object-oriented
+* Class action
+* Don't get thrown for a loop!
+* Of traits and behaviors
+* Implementation inheritance
+* Collection types
+* Packages and access modifiers
+* Building a calculator, Part 1
+* Building a calculator, Part 2
+* Building a calculator, Part 3
+* Scala and servlets
+* Explore Scala concurrency
+* Dive deeper into Scala concurrency
+* Scala + Twitter = Scitter
+* Enhancing the Scitter library
+* Updating Twitter, with Scitter
+
+*(I may, at some point, dig these articles up out of my source control and try to render them for reading on this website. That said, there's lots of tutorials on Scala out there, and sadly the Twitter API that "Scitter" used was shut down by Twitter, too.)*
+
+#### The Busy Developer's Guide to db4o Series
+
+*(Likewise, this series appears to be missing, as well. Not quite as sad, simply because db4o also disappeared--it was acquired by Versant, another OODBMS vendor, and essentially ceased development after db4o 8.0; it used to still be available as a free download, but I'm not sure if that's still true.)*
+
+* Introduction and review
+* Queries, updates and identity
+* Database refactoring
+* Structured objects and collections
+* Arrays and Collections
+* Beyond simple objects
+
+
+### Oracle TechNet
 
 Oracle TechNet is the website for all things Oracle, ranging from their database products to their customers' use of the Java programming language for building enterprise applications. Ted has written some pieces for them, including the features introduced as part of Java SE 8 (forthcoming) and the use of the Akka framework.
 
-<ul>
-* [](http://www.oraclejavamagazine-digital.c)javamagazine/20121112?sub_id=RWgm3aisYRFk#pg56">Building Actor-Based Systems Using the Akka Framework, Part 1</a></li>
-* [](http://www.oraclejavamagazine-digital.c)javamagazine/20130102#pg86">Building Actor-Based Systems Using the Akka Framework, Part 2</a></li>
-* [](http://www.oraclejavamagazine-digital.c)javamagazine/july_august_2013#pg35">Java8: Lambdas (Part 1)</a></li>
-* [](http://www.oraclejavamagazine-digital.c)javamagazine/20130910#pg29">Java8: Lambdas (Part 2)</a></li>
-* [](http://www.oraclejavamagazine-digital.c)javamagazine/jan_feb_2014#pg75">Take Time to Play</a></li>
-</ul>
+*(Several of the articles I wrote for them seem to no longer be available online; not sure why.)*
 
-<h3 id="otn">CodeProject</h3>
+* [Java 8: Lambdas, Part 1](https://www.oracle.com/technical-resources/articles/java/architect-lambdas-part1.html)
+* [Java 8: Lambdas, Part 2](https://www.oracle.com/technical-resources/articles/java/architect-lambdas-part2.html)
+* Building Actor-Based Systems Using the Akka Framework, Part 1 (Nov/Dec 2012)
+* Building Actor-Based Systems Using the Akka Framework, Part 2 (Jan/Feb 2013)
+* Take Time to Play (Jan/Feb. 2014)
 
-<a href="http://www.codeproject.com">CodeProject</a> is a developer content portal, for topics ranging far beyond what Ted writes about. His articles there have touched on programming headset earpieces in the Android environment to using Google Cloud Platform.
+### CodeProject
 
-<ul>
-* [](http://www.codeproject.com/Articles/678)/Shake-Rattle-and-Roll-Dolby-Sound-on-Android-Devic">Shake, Rattle, and Roll: Dolby Sound on Android Devices</a></li>
-* [](http://www.codeproject.com/Articles/685)/Androiding-in-Parallel">Androiding in Parallel</a></li>
-* [](http://www.codeproject.com/Articles/625)/Dictaphone">Dictaphone</a></li>
-* [](http://www.codeproject.com/Articles/684)/Google-Cloud-Platform-Getting-Started-with-Google">Google Cloud Platform: Getting Started</a></li>
-* [](http://www.codeproject.com/Articles/684)/Google-Cloud-Platform-Deploying-with-Google-App-En">Google Cloud Platform: Deploying with Google App Engine</a></li>
-* [](http://www.codeproject.com/Articles/689)/Google-Cloud-Platform-User-Management">Google Cloud Platform: User Management</a></li>
-* [](http://www.codeproject.com/Articles/689)/Google-Cloud-Platform-Mobile-Endpoints">Google Cloud Platform: Mobile Endpoints</a></li>
-* [](http://www.codeproject.com/Articles/716)/Google-Cloud-Datastore">Google Cloud Platform: Google Cloud Datastore</a></li>
-* [](http://www.codeproject.com/Articles/716)/Google-Cloud-SQL">Google Cloud Platform: Google Cloud SQL</a></li>
-* [](http://www.codeproject.com/Articles/725)/Google-Cloud-Platform-Storing-Data-on-Google-Cloud">Google Cloud Platform: Storing Data on Google Cloud Storage</a></li>
-</ul>
+[CodeProject](http://www.codeproject.com) is a developer content portal, for topics ranging far beyond what Ted writes about. His articles there have touched on programming headset earpieces in the Android environment to using Google Cloud Platform.
 
-<h3 id="other">Other Articles</h3>
+* [All of my CodeProject content](https://www.codeproject.com/Articles/Ted-Neward)
+
+#### Android
+
+* [Shake, Rattle, and Roll: Dolby Sound on Android Devices](https://www.codeproject.com/Articles/678621/Shake-Rattle-and-Roll-Dolby-Sound-on-Android-Devic)
+* [Androiding in Parallel](https://www.codeproject.com/Articles/685249/Androiding-in-Parallel)
+* [Dictaphone](https://www.codeproject.com/Articles/625818/Dictaphone)
+
+#### Google Cloud Platform
+
+* [Getting Started](https://www.codeproject.com/Articles/684723/Google-Cloud-Platform-Getting-Started-with-Google)
+* [Deploying with AppEngine](https://www.codeproject.com/Articles/684732/Google-Cloud-Platform-Deploying-with-Google-App-En)
+* [User Management](https://www.codeproject.com/Articles/689535/Google-Cloud-Platform-User-Management)
+* [Mobile Endpoints](https://www.codeproject.com/Articles/689537/Google-Cloud-Platform-Mobile-Endpoints)
+* [Cloud Datstore](https://www.codeproject.com/Articles/716717/Google-Cloud-Datastore)
+* [Cloud SQL](https://www.codeproject.com/Articles/716666/Google-Cloud-SQL)
+* [Cloud Storage](https://www.codeproject.com/Articles/725659/Google-Cloud-Platform-Storing-Data-on-Google-Cloud)
+
+
+### Other Articles
 
 Besides those powerhouses, Ted's also written a number of pieces that are scattered across the Internet.
 
-<ul>
-  <li>Quite possibly my most famous piece, "The Vietnam of Computer Science", available on <a href="http://blogs.tedneward.com/2006/06/26/The+Vietnam+Of+Computer+Science.aspx">my blog</a>, generated some interest from the OODBMS community. They asked me to write a followup, <a href="http://odbms.org/download/031.02%20Neward%20Avoiding%20the%20Quagmire%20May%202007.PDF">"Avoiding the Quagmire"</a> (ODBMS.org).</li>
-* [](http://msdn.microsoft.com/en-us/library)479863.aspx">Comparing LINQ and its Contemporaries</a> (Microsoft)</li>
-  <li>I wrote a half-dozen articles for the MSDN website, as part of a series we called <a href="http://msdn.microsoft.com/en-us/library/aa905335.aspx">"Pragmatic Architecture"</a> (Microsoft):
-    <ul>
-    * [](http://msdn.microsoft.com/en-us/library)905336.aspx">Layering</a></li>
-    * [](http://msdn.microsoft.com/en-us/library)245797.aspx">Security</a></li>
-    * [](http://msdn.microsoft.com/en-us/library)288452.aspx">User Interface</a></li>
-    * [](http://msdn.microsoft.com/en-us/library)892770.aspx">Agile Development</a></li>
-    * [](http://msdn.microsoft.com/en-us/library)898866.aspx">Mission Critical</a></li>
-    * [](http://msdn.microsoft.com/en-us/library)178936.aspx">Data Access</a></li>
-    </ul>
-  </li>
-  <li>Functional Java, Part 1 (NFJS Magazine)</li>
-  <li>Functional Java, Part 2 (NFJS Magazine)</li>
-* [](http://www.nofluffjuststuff.com/m/artic)collections_fu_part_1">Collections Fu, Part 1</a> (NFJS Magazine)</li>
-* [](http://www.nofluffjuststuff.com/m/artic)collections_fu_part_2">Collections Fu, Part 2</a> (NFJS Magazine)</li>
-* [](http://www.developerfusion.com/article/)079/intro-to-f/">Learn F# Programming</a> (developerFusion.com)</li>
-  <li>Adrian Trenaman and I wrote a semi-humorous "interview" for TheServerSide that they broke up into a variety of different parts:
-    <ul>
-    * [](http://tssblog.blogs.techtarget.com/con)ct-first-or-code-first-design-part-1/">Contract-First or Code-First Design, Part 1</a></li>
-    * [](http://tssblog.blogs.techtarget.com/con)ct-first-or-code-first-design-part-2/">Contract-First or Code-First Design, Part 2</a></li>
-    * [](http://tssblog.blogs.techtarget.com/con)ct-first-or-code-first-design-part-3/">Contract-First or Code-First Design, Part 3</a></li>
-    * [](http://tssblog.blogs.techtarget.com/con)ct-first-or-code-first-design-part-4/">Contract-First or Code-First Design, Part 4</a></li>
-    * [](http://tssblog.blogs.techtarget.com/con)ct-first-or-code-first-design-part-5/">Contract-First or Code-First Design, Part 5</a></li>
-    </ul>
-  </li>
-  <li>"The Interop Files", also for TheServerSide:
-    <ul>
-    * [](http://tssblog.techtarget.com/index.php)lweb-services/a-dirt-simple-web-service/">A Dirt-Simple Web Service</a></li>
-    * [](http://tssblog.techtarget.com/index.php)teroperability/interop-across-the-wire/">Interop Across the Wire</a></li>
-    * [](http://tssblog.techtarget.com/index.php)stributed-objects/a-look-at-out-of-proc-or-rpc-interop/">A look at out-of-proc or RPC interop</a></li>
-    * [](http://tssblog.techtarget.com/index.php)teroperability/21/">Interoperability: Check your politics at the door</a></li>
-    </ul>
-  </li>
-* [](http://www.infoq.com/articles/java-deve)er-guide-flex">Busy Java Developer's Guide to Flex</a> (InfoQ.com)</li>
-* [](http://www.infoq.com/articles/cracking-)ice-2007-with-java">Using Java to Crack Office 2007</a> (InfoQ.com)</li>
-* [](http://www.infoq.com/articles/rich-offi)client-applications">Rich Office Client Applications</a> (InfoQ.com)</li>
-* [](http://www.infoq.com/articles/in-proces)ava-net-integration">In-process Interoperability</a> (InfoQ.com)</li>
-* [](http://itknowledgeexchange.techtarget.c)soa-talk/where-soa-ends/">Where SOA ends</a> (ITKnowledgeExchange)</li>
-* [](http://www.devx.com/SpecialReports/Arti)/40982">Forking and Joining Java to Maximize Multicore Power</a> (DevX.com)</li>
-* [](http://www.devx.com/Java/Article/35087")lti-Core Mythbusters</a> (DevX.com)</li>
-</ul>
-
+* Quite possibly my most famous piece, "The Vietnam of Computer Science", available on <a href="http://blogs.tedneward.com/2006/06/26/The+Vietnam+Of+Computer+Science.aspx">my blog</a>, generated some interest from the OODBMS community. 
+* They asked me to write a followup, <a href="http://odbms.org/download/031.02%20Neward%20Avoiding%20the%20Quagmire%20May%202007.PDF">"Avoiding the Quagmire"</a> (ODBMS.org).
+* Comparing LINQ and its Contemporaries (Microsoft)
+* I wrote a half-dozen articles for the MSDN website, as part of a series we called "Pragmatic Architecture":
+    * Layering
+    * Security
+    * User Interface
+    * Agile Development
+    * Mission Critical
+    * Data Access
+* NFJS Magazine:
+    * Functional Java, Part 1
+    * Functional Java, Part 2
+    * Collections Fu, Part 1
+    * Collections Fu, Part 2
+* Learn F# Programming (developerFusion.com)
+* Adrian Trenaman and I wrote a semi-humorous "interview" for TheServerSide that they broke up into a variety of different parts:
+    * Contract-First or Code-First Design, Part 1
+    * Contract-First or Code-First Design, Part 2
+    * Contract-First or Code-First Design, Part 3
+    * Contract-First or Code-First Design, Part 4
+    * Contract-First or Code-First Design, Part 5
+* "The Interop Files", also for TheServerSide:
+    * A Dirt-Simple Web Service
+    * Interop Across the Wire
+    * A look at out-of-proc or RPC interop
+    * Interoperability: Check your politics at the door
+* InfoQ:
+    * Busy Java Developer's Guide to Flex
+    * Using Java to Crack Office 2007
+    * Rich Office Client Applications
+    * In-process Interoperability
+* Where SOA ends (ITKnowledgeExchange)
+* Forking and Joining Java to Maximize Multicore Power (DevX.com)
+* Multi-Core Mythbusters (DevX.com)

@@ -12,6 +12,6 @@
 
 	<hr />
 
-	<p><em>${content.date?string("dd MMMM yyyy")}</em></p>
+	<p><em>Published on ${content.date?string("dd MMMM yyyy")}</em></p>
 	
 <#include "footer.ftl">
