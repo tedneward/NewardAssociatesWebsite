@@ -1,8 +1,8 @@
-title=Busy Developer's Guide  to ECMA(Java)Script 2015/2016
+title=Busy Developer's Guide   to ECMA(Java)Script 2015/2016
 type=talk
 audience=For any intermediate (2 or more years) developer audience
-tags=language,javascript
-date=2022-02-15
+tags=presentation, language,javascript
+date=2022-02-23
 status=published
 ~~~~~~
 

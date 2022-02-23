@@ -1,8 +1,8 @@
 title=Platform-Oriented Architecture (POA)
 type=talk
 audience=For any audience, recommended as a keynote presentation.
-tags=keynote,platform-oriented,architecture
-date=2022-02-15
+tags=presentation, keynote,platform-oriented,architecture
+date=2022-02-23
 status=published
 ~~~~~~
 

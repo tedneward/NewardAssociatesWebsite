@@ -1,8 +1,8 @@
-title=Busy Developer's Guideto Platform Security
+title=Busy Developer's Guide to Platform Security
 type=talk
 audience=For any intermediate Java (2 or more years) audience, as an all-day workshop, or as 3 90-minute presentations
-tags=jvm,security
-date=2022-02-15
+tags=presentation, jvm,security
+date=2022-02-23
 status=published
 ~~~~~~
 

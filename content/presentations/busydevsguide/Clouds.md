@@ -1,8 +1,8 @@
-title=Busy Developer's Guideto the Clouds
+title=Busy Developer's Guide to the Clouds
 type=talk
 audience=For any intermediate developer (2 or more years) audience
-tags=cloud,distributed systems,aws,azure,google cloud
-date=2022-02-15
+tags=presentation, cloud,distributed systems,aws,azure,google cloud
+date=2022-02-23
 status=published
 ~~~~~~
 

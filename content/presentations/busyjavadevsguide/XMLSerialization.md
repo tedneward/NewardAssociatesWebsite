@@ -1,8 +1,8 @@
-title=Busy Java Developer's Guideto XML Serialization
+title=Busy Java Developer's Guide to XML Serialization
 type=talk
 audience=For any audience at least casually familiar with XML, as a 90-minute, half-day, or full-day presentation. It can be delivered using either JAXB or XMLBeans--please specify which your audience would prefer (or both).
-tags=java,xml,xsd
-date=2022-02-15
+tags=presentation, java,xml,xsd
+date=2022-02-23
 status=published
 ~~~~~~
 

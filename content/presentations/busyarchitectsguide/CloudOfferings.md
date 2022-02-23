@@ -1,8 +1,8 @@
-title=Busy Architect's Guide  to the Cloud Offerings
+title=Busy Architect's Guide   to the Cloud Offerings
 type=talk
 audience=For any architect and/or intermediate developer audience
-tags=architecture,enterprise,cloud,distributed systems,data storage,security,aws,azure,google cloud
-date=2022-02-15
+tags=presentation, architecture,enterprise,cloud,distributed systems,data storage,security,aws,azure,google cloud
+date=2022-02-23
 status=published
 ~~~~~~
 

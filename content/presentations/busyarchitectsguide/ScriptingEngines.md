@@ -1,8 +1,8 @@
-title=Busy Architect's Guide  to Scripting Engines
+title=Busy Architect's Guide   to Scripting Engines
 type=talk
 audience=For any intermediate (2 or more years) architect audience
-tags=architecture,enterprise,languages
-date=2022-02-15
+tags=presentation, architecture,enterprise,languages
+date=2022-02-23
 status=published
 ~~~~~~
 

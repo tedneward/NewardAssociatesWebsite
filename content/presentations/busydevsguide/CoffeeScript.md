@@ -1,8 +1,8 @@
-title=Busy Developer's Guide  to CoffeeScript
+title=Busy Developer's Guide   to CoffeeScript
 type=talk
 audience=For any intermediate developer (2 or more years) audience
-tags=javascript,language
-date=2022-02-15
+tags=presentation, javascript,language
+date=2022-02-23
 status=published
 ~~~~~~
 

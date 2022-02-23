@@ -1,10 +1,10 @@
-title=Busy Developer's Guideto Elm
+title=Busy Developer's Guide to Elm
 type=talk
 audience=For any intermediate (2+ years) developer audience
-tags=language,functional
-date=2022-02-15
+tags=presentation, language,functional
+date=2022-02-23
 status=published
 ~~~~~~
 
-
+Before there was React, there was Elm: A client-side web development framework that brought the concepts of Functional Reactive Programming (FRP) to the mainstream. In this presentation, we'll look at Elm, it's syntax and its semantics, and see how it brings functional principles to the world of the DOM and the mouse.
     

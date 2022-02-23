@@ -11,6 +11,7 @@
     <p>Ted organizes his presentations into a couple of categories, usually reflected in the title:
     <ul>
     <li><a href="#keynote"><em>Keynotes</em></a> are just what they sound like: highly conceptual presentations with minimal requirements of the audience (in other words, consumable by techie and non-techie alike) that are designed to get attendees to laugh, think, and be inspired, in equal amounts.</li>
+    <li><a href="#manager"><em>Busy Managers's Guide</em></a> talks are geared towards those technical-minded folks who have taken (or are about to take) the step into leadership. They are more people-centric, but it's amazing how much an analytical mind can bring to what most people consider "squishy human topics".</p></li>
     <li><a href="#architecture"><em>Busy Architect's Guide</em></a> talks are geared towards the architect-level crowd, typically higher-level in nature and less code-centric.</p></li>
     <li><a href="#developer"><em>Busy Developer's Guide</em></a> talks are for any developer audience, regardless of their technical background. These are usually introductions to new languages, platforms, and/or other tools.
     <li><em>Busy "X" Developer's Guide</em> talks (such as <a href="#clr"><em>Busy .NET Developer's Guide</em></a>, <a href="#jvm"><em>Busy Java Developer's Guide</em></a>, <a href="#ecmascript"><em>Busy Javascript Developer's Guide</em></a>, and so on) are talks written specifically for that sort of audience. They tend to dive deeper into things that are specific to that audience.</li>
@@ -23,7 +24,7 @@
 
     <hr />
 
-    <#assign ids = ["keynote", "architecture", "developer", "jvm", "clr", "ecmascript"]>
+    <#assign ids = ["keynote", "manager", "architecture", "developer", "jvm", "clr", "ecmascript"]>
     <#assign names = ["Keynotes", "Busy Architect's Guide", "Busy Developer's Guide", "Busy Java Developer's Guide", "Busy .NET Developer's Guide", "Busy Javascript Developer's Guide"]>
 
     <#list ids as id>

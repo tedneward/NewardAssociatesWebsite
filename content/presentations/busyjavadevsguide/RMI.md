@@ -1,8 +1,8 @@
-title=Busy Java Developer's Guideto Remote Method Invocation (RMI)
+title=Busy Java Developer's Guide to Remote Method Invocation (RMI)
 type=talk
 audience=For any intermediate Java (2 or more years) audience
-tags=java,api,jvm
-date=2022-02-15
+tags=presentation, java,api,jvm
+date=2022-02-23
 status=published
 ~~~~~~
 

@@ -1,8 +1,8 @@
-title=The New Economy, Free Agency  and (More Than Just) Survival
+title=The New Economy, Free Agency   and (More Than Just) Survival
 type=talk
 audience=For any audience, recommended as a keynote presentation.
-tags=keynote,psychology
-date=2022-02-15
+tags=presentation, keynote,psychology
+date=2022-02-23
 status=published
 ~~~~~~
 

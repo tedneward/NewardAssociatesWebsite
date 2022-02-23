@@ -1,8 +1,8 @@
 title=PsyPhilProg
 type=talk
 audience=For any audience, recommended as a keynote presentation.
-tags=keynote,psychology,philosophy
-date=2022-02-15
+tags=presentation, keynote,psychology,philosophy
+date=2022-02-23
 status=published
 ~~~~~~
 

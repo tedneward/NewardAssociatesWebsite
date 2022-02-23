@@ -1,8 +1,8 @@
-title=Busy Developer's Guide  to Chrome Development
+title=Busy Developer's Guide to Chrome Development
 type=talk
 audience=For any intermediate developer (2 or more years) audience
-tags=web,html,javascript,css,chrome
-date=2022-02-15
+tags=presentation, web,html,javascript,css,chrome
+date=2022-02-23
 status=published
 ~~~~~~
 

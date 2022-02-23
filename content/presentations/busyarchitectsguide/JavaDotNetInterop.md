@@ -1,8 +1,8 @@
-title=Busy Architect's Guideto Java/.NET Interoperability
+title=Busy Architect's Guide to Java/.NET Interoperability
 type=talk
 audience=For any intermediate (2 or more years) .NET and/or Java developer audience; please specify your group's background when scheduling.
-tags=architecture,java,jvm,.net,clr
-date=2022-02-15
+tags=presentation, architecture,java,jvm,.net,clr
+date=2022-02-23
 status=published
 ~~~~~~
 

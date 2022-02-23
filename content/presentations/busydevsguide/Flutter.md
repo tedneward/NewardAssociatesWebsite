@@ -1,8 +1,8 @@
-title=Busy Developer's Guideto Flutter
+title=Busy Developer's Guide to Flutter
 type=talk
 audience=For any intermediate developer (2 or more years) audience
-tags=mobile,ios,android
-date=2022-02-15
+tags=presentation, mobile,ios,android
+date=2022-02-23
 status=published
 ~~~~~~
 

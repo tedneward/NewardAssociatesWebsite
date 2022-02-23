@@ -1,8 +1,8 @@
 title=The Role of an Architect
 type=talk
 audience=For any audience, recommended as a keynote presentation.
-tags=keynote,architecture
-date=2022-02-15
+tags=presentation, keynote,architecture
+date=2022-02-23
 status=published
 ~~~~~~
 

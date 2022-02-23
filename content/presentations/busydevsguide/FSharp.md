@@ -1,10 +1,10 @@
-title=Busy Developer's Guideto F#
+title=Busy Developer's Guide to F#
 type=talk
 audience=
 For any .NET audience, as a 90-minute presentation. Strongly recommended in conjunction with the other F# presentations as at least a half-day tutorial or in two 90-minute presentations.
     
-tags=f#,.net,clr,object-oriented,functional,language
-date=2022-02-15
+tags=presentation, f#,.net,clr,object-oriented,functional,language
+date=2022-02-23
 status=published
 ~~~~~~
 

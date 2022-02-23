@@ -1,0 +1,10 @@
+title=Busy Developer's Guide to Apple's Swift
+type=talk
+audience=For any intermediate (2+ years) developer audience, as a 90-minute presentation.
+tags=presentation, ios,osx,object-oriented,functional,language
+date=2022-02-23
+status=published
+~~~~~~
+
+Apple shocked everybody a few years back when they introduced, without any warning or hint whatsoever, a brand-new programming language, called "Swift", that looks more and more like it is Apple's replacement offering over Objective-C. In this presentation, we will take a long and hard look at Swift, starting from scratch and working our way through the language syntax and semantics, just to see what this creature looks like.
+    

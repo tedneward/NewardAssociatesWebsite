@@ -1,8 +1,8 @@
 title=Technology: The Infinite Game
 type=talk
 audience=For any intermediate developer (2 or more years) audience, as a full-day workshop
-tags=keynote,psychology
-date=2022-02-15
+tags=presentation, keynote,psychology
+date=2022-02-23
 status=published
 ~~~~~~
 

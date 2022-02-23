@@ -1,8 +1,8 @@
-title=Busy Developer's Guideto Building A Virtual Machine
+title=Busy Developer's Guide to Building A Virtual Machine
 type=talk
 audience=For any intermediate developer (2 or more years) audience
-tags=languages,virtual machines
-date=2022-02-15
+tags=presentation, languages,virtual machines
+date=2022-02-23
 status=published
 ~~~~~~
 

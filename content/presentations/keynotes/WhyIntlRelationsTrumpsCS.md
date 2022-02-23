@@ -1,8 +1,8 @@
 title=Why My International Relations Degree Trumps your Computer Science Degree
 type=talk
 audience=For any audience, recommended as a keynote presentation.
-tags=keynote,psychology,philosophy,management
-date=2022-02-15
+tags=presentation, keynote,psychology,philosophy,management
+date=2022-02-23
 status=published
 ~~~~~~
 

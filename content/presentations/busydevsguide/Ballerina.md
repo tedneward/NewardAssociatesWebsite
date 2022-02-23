@@ -1,8 +1,8 @@
-title=Busy Developer's Guideto Ballerina
+title=Busy Developer's Guide to Ballerina
 type=talk
 audience=For any intermediate (2+ years) developer audience
-tags=language,jvm
-date=2022-02-15
+tags=presentation, language,jvm
+date=2022-02-23
 status=published
 ~~~~~~
 

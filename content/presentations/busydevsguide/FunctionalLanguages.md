@@ -1,8 +1,8 @@
-title=Busy Developer's Guideto Functional Languages
+title=Busy Developer's Guide to Functional Languages
 type=talk
 audience=For any intermediate developer (2 or more years) audience
-tags=jvm,scala,clr,f#,haskell,erlang,concepts,functional
-date=2022-02-15
+tags=presentation, jvm,scala,clr,f#,haskell,erlang,concepts,functional
+date=2022-02-23
 status=published
 ~~~~~~
 

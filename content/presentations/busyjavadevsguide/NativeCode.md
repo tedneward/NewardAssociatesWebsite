@@ -1,8 +1,8 @@
-title=Busy Java Developer's Guideto Native Code
+title=Busy Java Developer's Guide to Native Code
 type=talk
 audience=For any intermediate Java (2 or more years) audience
-tags=jvm
-date=2022-02-15
+tags=presentation, jvm
+date=2022-02-23
 status=published
 ~~~~~~
 

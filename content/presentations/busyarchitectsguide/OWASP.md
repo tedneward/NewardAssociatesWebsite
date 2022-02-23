@@ -1,8 +1,8 @@
-title=Busy Architect's Guideto the Open Web Application Security Project (OWASP)
+title=Busy Architect's Guide to the Open Web Application Security Project (OWASP)
 type=talk
 audience=For any intermediate (2+ years) developer audience
-tags=architecture,enterprise,security,distributed systems,cloud
-date=2022-02-15
+tags=presentation, architecture,enterprise,security,distributed systems,cloud
+date=2022-02-23
 status=published
 ~~~~~~
 

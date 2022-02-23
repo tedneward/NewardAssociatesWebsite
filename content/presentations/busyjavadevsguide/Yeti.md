@@ -1,8 +1,8 @@
-title=Busy Java Developer's Guideto Yeti
+title=Busy Java Developer's Guide to Yeti
 type=talk
 audience=For any intermediate Java (2 or more years) audience
-tags=jvm,language,functional
-date=2022-02-15
+tags=presentation, jvm,language,functional
+date=2022-02-23
 status=published
 ~~~~~~
 

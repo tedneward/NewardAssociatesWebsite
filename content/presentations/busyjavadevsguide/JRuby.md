@@ -1,8 +1,8 @@
-title=Busy Java Developer's Guideto JRuby
+title=Busy Java Developer's Guide to JRuby
 type=talk
 audience=For any intermediate (2 or more years) Java developer audience
-tags=language,web
-date=2022-02-15
+tags=presentation, language,web
+date=2022-02-23
 status=published
 ~~~~~~
 

@@ -1,8 +1,8 @@
-title=Busy Developer's Guideto Frege
+title=Busy Developer's Guide to Frege
 type=talk
 audience=For any intermediate (2+ years) developer audience
-tags=language,functional
-date=2022-02-15
+tags=presentation, language,functional
+date=2022-02-23
 status=published
 ~~~~~~
 

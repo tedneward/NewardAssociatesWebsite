@@ -1,8 +1,8 @@
-title=Busy Developer's Guide  to Firebase
+title=Busy Developer's Guide   to Firebase
 type=talk
 audience=For any intermediate developer (2 or more years) audience
-tags=nosql,data storage
-date=2022-02-15
+tags=presentation, nosql,data storage
+date=2022-02-23
 status=published
 ~~~~~~
 
