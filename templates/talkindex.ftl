@@ -24,8 +24,9 @@
 
     <hr />
 
-    <#assign ids = ["keynote", "manager", "architecture", "developer", "jvm", "clr", "ecmascript"]>
-    <#assign names = ["Keynotes", "Busy Architect's Guide", "Busy Developer's Guide", "Busy Java Developer's Guide", "Busy .NET Developer's Guide", "Busy Javascript Developer's Guide"]>
+    <#assign ids = ["keynote", "management", "architecture", "developer", "jvm", "clr", "ecmascript"]>
+    <#assign names = ["Keynotes", "Busy Manager's Guide", "Busy Architect's Guide", "Busy Developer's Guide", 
+                      "Busy Java Developer's Guide", "Busy .NET Developer's Guide", "Busy Javascript Developer's Guide"]>
 
     <#list ids as id>
     <h3 id="${id}">${names[ids?seq_index_of(id)]}</h3>
