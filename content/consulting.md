@@ -5,17 +5,7 @@ tags=page
 status=published
 ~~~~~~
 
-<div class="container-fluid">
-  <div class="row-fluid">
-    <div class="span12">
-      <div class="row-fluid">
-        <div class="hero-unit">
-          <h2>Consulting</h2>
-          <p>How can you use Ted? If you're looking for inspiration, here's a few ideas: He can help you <a href="#/consulting#research">keep abreast of the latest changes</a>, <a href="#/consulting#mentoring">help your team grow</a>, <a href="#/consulting#arch-review">provide his expertise on your large-scale vision</a>, or <a href="#/consulting#rescue">rescue a project in danger</a>, among other things.</p>
-        </div>
-      </div>
-    </div><!--/span-->
-  </div><!--/row-->
+<p>How can you use Ted? If you're looking for inspiration, here's a few ideas: He can help you <a href="#/consulting#research">keep abreast of the latest changes</a>, <a href="#/consulting#mentoring">help your team grow</a>, <a href="#/consulting#arch-review">provide his expertise on your large-scale vision</a>, or <a href="#/consulting#rescue">rescue a project in danger</a>, among other things.</p>
 
 <div class="row-fluid" id="research">
   <h2>Research</h2>

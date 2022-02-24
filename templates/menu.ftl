@@ -20,7 +20,6 @@
             <li><a href="${content.rootpath}/papers/">Papers</a></li>
             <li><a href="${content.rootpath}presentations/">Presentations</a></li>
             <li><a href="#">Downloads</a></li>
-            <li><a href="${content.rootpath}presentations/">Presentations</a></li>
           </ul>
         </li>
         <li class="dropdown">

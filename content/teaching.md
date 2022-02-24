@@ -55,5 +55,4 @@ Ever wanted to understand how a virtual machine--like the Java VM, .NET CLR, or 
 Ever wanted to get into building an Internet/mobile startup thingie? In this workshop, we'll look at a common software architecture for building one of these hot new mobile startups, work through how to build the front-end (and the pros/cons of the various choices in doing so), work through how to build the back-end (and the pros/cons of the various choices in doing so), and actually go build one. Toss in a really cool business idea, and you're all set to go! NOTE: VC funding not guaranteed.
 
 ### Busy Developer's Workshop: Technical Speaking
-
-
+Want to get your developers to learn how to give great technical presentations? Want to give your developer advocates a leg up on winning over conference crowds? In this workshop, we'll spend time crafting abstracts, building out talks, and practicing delivery, and transform a developer into a technical presenter that can command the attention of a room with a presentation that is equally informative as it is engaging.
