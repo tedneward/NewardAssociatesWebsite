@@ -1,7 +1,7 @@
 title=Busy Developer's Guide to WebAssembly
 type=talk
 audience=For any intermediate (2+ years) developer audience
-tags=presentation, language,javascript
+tags=presentation, language,javascript, developer
 date=2022-02-23
 status=published
 ~~~~~~

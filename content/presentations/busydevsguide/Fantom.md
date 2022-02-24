@@ -1,7 +1,7 @@
 title=Busy Developer's Guide to Fantom
 type=talk
 audience=For any intermediate Java (2 or more years) audience
-tags=presentation, languages,java,.net,javascript,web
+tags=presentation, languages,java,.net,javascript,web, developer
 date=2022-02-23
 status=published
 ~~~~~~

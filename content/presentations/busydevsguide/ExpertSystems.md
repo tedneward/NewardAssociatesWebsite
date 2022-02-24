@@ -1,7 +1,7 @@
 title=Busy Developer's Guide to Rules Engines
 type=talk
 audience=For any intermediate (2 or more years) developer audience
-tags=presentation, jvm,clr,rules engines
+tags=presentation, jvm,clr,rules engines, developer
 date=2022-02-23
 status=published
 ~~~~~~

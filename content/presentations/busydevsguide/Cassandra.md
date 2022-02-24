@@ -1,7 +1,7 @@
 title=Busy Developer's Guide   to Cassandra
 type=talk
 audience=For any intermediate developer (2 or more years) audience
-tags=presentation, nosql,data storage
+tags=presentation, nosql,data storage, developer
 date=2022-02-23
 status=published
 ~~~~~~

@@ -1,7 +1,7 @@
 title=Busy Developer's Guide to Developing Electron Desktop Apps
 type=talk
 audience=For any intermediate (2+ years) developer audience
-tags=presentation, html,css,javascript,desktop
+tags=presentation, html,css,javascript,desktop, developer
 date=2022-02-23
 status=published
 ~~~~~~

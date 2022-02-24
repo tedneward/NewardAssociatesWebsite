@@ -1,7 +1,7 @@
 title=Busy Developer's Guide to Assembly Language
 type=talk
 audience=For any intermediate developer (2 or more years) audience
-tags=presentation, languages
+tags=presentation, languages, developer
 date=2022-02-23
 status=published
 ~~~~~~

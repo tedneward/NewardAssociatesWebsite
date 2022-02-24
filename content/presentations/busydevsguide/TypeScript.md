@@ -1,7 +1,7 @@
 title=Busy Developer's Guide to TypeScript
 type=talk
 audience=For any intermediate developer (2 or more years) audience
-tags=presentation, javascript,language
+tags=presentation, javascript,language, developer
 date=2022-02-23
 status=published
 ~~~~~~
