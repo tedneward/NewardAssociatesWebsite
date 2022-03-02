@@ -2,7 +2,7 @@ title=PsyPhilProg
 type=talk
 audience=For any audience, recommended as a keynote presentation.
 tags=presentation, keynote,psychology,philosophy
-date=2022-02-25
+date=2022-03-02
 status=published
 ~~~~~~
 
@@ -16,3 +16,6 @@ But, surprisingly, it does come as a surprise to most developers. And in this pr
 
 ... and become better developers as a result.
     
+<hr />
+
+Slides: [HTML](http://slides.newardassociates.com/Keynotes/PsyPhilProg.html) | [PPTX](http://slides.newardassociates.com/Keynotes/PsyPhilProg.pptx)

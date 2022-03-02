@@ -16,6 +16,8 @@
     <li><a href="#developer"><em>Busy Developer's Guide</em></a> talks are for any developer audience, regardless of their technical background. These are usually introductions to new languages, platforms, and/or other tools.
     <li><em>Busy "X" Developer's Guide</em> talks (such as <a href="#clr"><em>Busy .NET Developer's Guide</em></a>, <a href="#jvm"><em>Busy Java Developer's Guide</em></a>, <a href="#ecmascript"><em>Busy Javascript Developer's Guide</em></a>, and so on) are talks written specifically for that sort of audience. They tend to dive deeper into things that are specific to that audience.</li>
     </ul>
+    Note: Individual talk pages will have links to HTML or PPTX versions of the slides; as of this writing (2 Mar 2022), some of those links may not work as the mechanism to CI/CD the presentations is still under construction. (It's exposing a lot of places where talks are out-of-date and/or need "modernization" to the new scheme.) If you want to see them and the link is broken, [contact Ted](/contact.html). (Having the links there, broken or not, acts as a forcing function and a reminder to get them sorted.)
+    </p>
 
     <p>Alternatively, all of the talks are tagged; hit the <a href="${content.rootpath}tags/">tags page</a> and if a tag matches your interest, look for the "talk" links for that particular tag.
 

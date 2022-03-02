@@ -2,7 +2,7 @@ title=Busy Developer's Guide to Garbage Collection
 type=talk
 audience=For any intermediate (2+ years) developer audience
 tags=presentation, virtual machines,jvm,clr,llvm,ios,android,nodejs,ruby,developer
-date=2022-02-25
+date=2022-03-02
 status=published
 ~~~~~~
 
@@ -10,3 +10,6 @@ Garbage collection, or "automatic memory management" as it's more formally (and 
 
 Actually, it's not all that hard to understand at all, and in this presentation, we're going to take a language-agnostic view of how GC works, some of the more popular algorithms, and how some of the popular virtual machines (the JVM and the CLR being the two biggies) work. We'll talk about what the implications of automatic memory management are, how its approach can trip up developers, and some of the various mechanisms different platforms have provided over the years to try and address the shortcomings.
     
+<hr />
+
+Slides: [HTML](http://slides.newardassociates.com/BusyDevsGuide/GarbageCollection.html) | [PPTX](http://slides.newardassociates.com/BusyDevsGuide/GarbageCollection.pptx)

@@ -2,7 +2,7 @@ title=What International Relations Can Teach You About Development
 type=talk
 audience=For any audience, recommended as a keynote presentation.
 tags=presentation, keynote,psychology,philosophy,management
-date=2022-02-25
+date=2022-03-02
 status=published
 ~~~~~~
 
@@ -15,3 +15,6 @@ training made me a better programmer than those of my peers who studied Computer
 that anyone--even a science major--can pick up. Pull up a chair, let's sift through history, politics, economics, social
 science and a little philosophy, and I'll tell you what I've learned from IR that you need to know to be a better developer.
     
+<hr />
+
+Slides: [HTML](http://slides.newardassociates.com/Keynotes/InternationalRelations.html) | [PPTX](http://slides.newardassociates.com/Keynotes/InternationalRelations.pptx)

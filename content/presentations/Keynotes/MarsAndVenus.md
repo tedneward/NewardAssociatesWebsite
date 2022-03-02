@@ -2,7 +2,7 @@ title=Managers are from Mars, Developers are from Venus
 type=talk
 audience=For any software developer audience and their management, recommended as a keynote presentation
 tags=presentation, keynote,psychology,management
-date=2022-02-25
+date=2022-03-02
 status=published
 ~~~~~~
 
@@ -10,3 +10,6 @@ You're a manager. You've been hired to run a small (or large) development team, 
 
 You're a developer. You work for what has to be the most clueless manager in history. For the life of you, you can't understand this person. They keep trying to "motivate" you when all you want is for them to get out of the way. They're ready to drop thousands (or millions) of dollars on a release party, but getting them to pony up some cash for a conference or training class is like wringing blood from a rock. What the heck? Where did this bizarre alien creatre come from, and how in the world are you supposed to work with it?
     
+<hr />
+
+Slides: [HTML](http://slides.newardassociates.com/Keynotes/MarsAndVenus.html) | [PPTX](http://slides.newardassociates.com/Keynotes/MarsAndVenus.pptx)

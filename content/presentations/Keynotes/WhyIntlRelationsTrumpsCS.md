@@ -2,7 +2,7 @@ title=Why My International Relations Degree Trumps your Computer Science Degree
 type=talk
 audience=For any audience, recommended as a keynote presentation.
 tags=presentation, keynote,psychology,philosophy,management
-date=2022-02-25
+date=2022-03-02
 status=published
 ~~~~~~
 
@@ -10,3 +10,6 @@ In 1995, I graduated from the University of California at Davis (Go Aggies!) wit
 
 Twenty years after my graduation, I can now proudly and successfully claim that my International Relations study and training made me a better programmer than those of my peers who studied Computer Science. Fortunately, these are all things that anyone--even a science major--can pick up. Pull up a chair, let's sift through history, politics, economics, social science and a little philosophy, and I'll tell you what I've learned from IR that you need to know to be a better developer.
     
+<hr />
+
+Slides: [HTML](http://slides.newardassociates.com/Keynotes/WhyIntlRelationsTrumpsCS.html) | [PPTX](http://slides.newardassociates.com/Keynotes/WhyIntlRelationsTrumpsCS.pptx)

@@ -2,7 +2,7 @@ title=Busy Architect's Guide   to Rules Engines
 type=talk
 audience=For any intermediate (2 or more years) developer audience
 tags=presentation, architecture,expert systems,rules engines
-date=2022-02-25
+date=2022-03-02
 status=published
 ~~~~~~
 
@@ -10,3 +10,6 @@ If you've been keeping your ear to the ground, you may have heard some talk rece
 
 This presentation puts some concrete definition around what a "rule" is, how a "rule engine" can enable your users to be more agile than they ever thought possible, how to decide when it's right to use a rule engine, and how you can (finally!) get out of the "infinite if-else game".
     
+<hr />
+
+Slides: [HTML](http://slides.newardassociates.com/BusyArchitectsGuide/RulesEngines.html) | [PPTX](http://slides.newardassociates.com/BusyArchitectsGuide/RulesEngines.pptx)

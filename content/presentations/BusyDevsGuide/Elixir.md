@@ -2,7 +2,7 @@ title=Busy Developer's Guide to Elixir
 type=talk
 audience=For any intermediate (2+ years) developer audience
 tags=presentation, language,developer
-date=2022-02-25
+date=2022-03-02
 status=published
 ~~~~~~
 
@@ -10,3 +10,6 @@ Ruby: a terrific language for expressing concepts directly, but for years has su
 Erlang: a pure-functional language that sometimes even a mother doesn't love, but running on top of an actor-based messaging platform that handles scale and load like there's no limits.
 What happens when you build a Ruby-like language on top of the Erlang platform? And why should you care?
     
+<hr />
+
+Slides: [HTML](http://slides.newardassociates.com/BusyDevsGuide/Elixir.html) | [PPTX](http://slides.newardassociates.com/BusyDevsGuide/Elixir.pptx)

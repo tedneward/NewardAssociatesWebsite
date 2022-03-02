@@ -2,7 +2,7 @@ title=Busy Developer's Guide   to CouchDB
 type=talk
 audience=For any intermediate developer (2 or more years) audience
 tags=presentation, nosql,rest,data storage,developer
-date=2022-02-25
+date=2022-03-02
 status=published
 ~~~~~~
 
@@ -10,3 +10,6 @@ With the rise of the NoSQL movement, a whole new crop of different ways to store
 
 In this session, we'll look at CouchDB, how to set it up, store data to it, retrieve data from it, and in general figure out where it fits within your next project. Be careful, or you just might find yourself falling in love.
     
+<hr />
+
+Slides: [HTML](http://slides.newardassociates.com/BusyDevsGuide/CouchDB.html) | [PPTX](http://slides.newardassociates.com/BusyDevsGuide/CouchDB.pptx)

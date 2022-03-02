@@ -2,7 +2,7 @@ title=Busy Developer's Guide to Platform Security
 type=talk
 audience=For any intermediate Java (2 or more years) audience, as an all-day workshop, or as 3 90-minute presentations
 tags=presentation, jvm,security
-date=2022-02-25
+date=2022-03-02
 status=published
 ~~~~~~
 
@@ -12,3 +12,6 @@ Then, once you know the platform security model, you want to use it in new and i
 
 Finally, role-based security and permissions based on individuals, rather than code, is a necessary component to building secure systems. Impersonation, where code takes on the security context of an individual even on machines where that individual is not logged on, helps simplify security execution on server-class machines. In the last part of this presentation, we will examine JAAS, the Java Authentication and Authorization Service, and how it can provide single sign-on capabilities, as well as provide secure execution context in any application server or container. Reach beyond simple JSP login pages, to find a better, more comphrensive, and simpler, way to Java code security.
     
+<hr />
+
+Slides: [HTML](http://slides.newardassociates.com/BusyJavaDevsGuide/PlatformSecurity.html) | [PPTX](http://slides.newardassociates.com/BusyJavaDevsGuide/PlatformSecurity.pptx)

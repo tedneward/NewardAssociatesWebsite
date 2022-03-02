@@ -2,7 +2,7 @@ title=Busy Developer's Guide to Management
 type=talk
 audience=For any intermediate developer (2 or more years) audience
 tags=presentation, concepts,management,developer
-date=2022-02-25
+date=2022-03-02
 status=published
 ~~~~~~
 
@@ -10,3 +10,6 @@ Ah, managers. Team leads, if you prefer. People who have the hiring (and firing)
 
 In this talk, we'll take a realistic look at software development management, both good and bad, and help you decide how to work with them, whether you want to become one of them, and how to make the leap to management when you're ready to do so.
     
+<hr />
+
+Slides: [HTML](http://slides.newardassociates.com/BusyDevsGuide/Management.html) | [PPTX](http://slides.newardassociates.com/BusyDevsGuide/Management.pptx)

@@ -2,7 +2,7 @@ title=Busy Developer's Guide to Dart
 type=talk
 audience=For any intermediate (2+ years) developer audience
 tags=presentation, language,javascript,developer
-date=2022-02-25
+date=2022-03-02
 status=published
 ~~~~~~
 
@@ -10,3 +10,6 @@ Dart is a multi-platform language that deliberately seeks to "scale up" to build
 
 In this presentation, we'll go over Dart, its syntax, semantics, and some of the more interesting features it presents as a language, like optional typing and its built-in asynchrony features.
     
+<hr />
+
+Slides: [HTML](http://slides.newardassociates.com/BusyDevsGuide/Dart.html) | [PPTX](http://slides.newardassociates.com/BusyDevsGuide/Dart.pptx)
