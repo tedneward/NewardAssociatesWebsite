@@ -15,9 +15,9 @@
     <li><a href="#manager"><em>Busy Managers's Guide</em></a> talks are geared towards those technical-minded folks who have taken (or are about to take) the step into leadership. They are more people-centric, but it's amazing how much an analytical mind can bring to what most people consider "squishy human topics".</p></li>
     <li><a href="#architecture"><em>Busy Architect's Guide</em></a> talks are geared towards the architect-level crowd, typically higher-level in nature and less code-centric.</p></li>
     <li><a href="#developer"><em>Busy Developer's Guide</em></a> talks are for any developer audience, regardless of their technical background. These are usually introductions to new languages, platforms, and/or other tools.
-    <li><em>Busy "X" Developer's Guide</em> talks (such as <a href="#clr"><em>Busy .NET Developer's Guide</em></a>, <a href="#jvm"><em>Busy Java Developer's Guide</em></a>, <a href="#ecmascript"><em>Busy Javascript Developer's Guide</em></a>, and so on) are talks written specifically for that sort of audience. They tend to dive deeper into things that are specific to that audience.</li>
+    <li><em>Busy "X" Developer's Guide</em> talks (where "X" is one of <a href="#clr"><em>.NET</em></a>, <a href="#jvm"><em>Java</em></a>, <a href="#ecmascript"><em>Javascript</em></a>, and a few others) are talks written specifically for that sort of audience. They tend to dive deeper into things that are specific to that audience.</li>
     </ul>
-    Alternatively, all of the talks are tagged; hit the <a href="${content.rootpath}tags/">tags page</a> and if a tag matches your interest, look for the "talk" links for that particular tag.
+    Additionally, all of the talks are tagged; hit the <a href="${content.rootpath}tags/">tags page</a> and if a tag matches your interest, look for the "talk" links for that particular tag.
     </p>
 
     <p>Note: Individual talk pages will have links to HTML or PPTX versions of the slides; as of this writing (2 Mar 2022), some of those links may not work as the mechanism to CI/CD the presentations is still under construction. (It's exposing a lot of places where talks are out-of-date and/or need "modernization" to the new scheme.) If you want to see them and the link is broken, [contact Ted](/contact.html). (Having the links there, broken or not, acts as a forcing function and a reminder to get them sorted.)</p>
@@ -36,8 +36,13 @@
         <#list talks?filter(t -> t.tags?seq_contains(id))?sort_by("title") as talk>
             <div style="padding: 10px;border: 2px solid gray;margin: 5px;">
             <h4><a href="${content.rootpath}${talk.uri}">"${talk.title}"</a></h4>
-            <p>${talk.body}</p>
-            <p><em>${talk.audience}</em></p>
+
+            <#assign body = talk.body?keep_before("<hr") >
+            <#if (body?length) &lt; 340 >
+            ${body}
+            <#else>
+            <p>${body[0..340]?keep_before_last(" ")} ...</p>
+            </#if>
             </div>
         </#list>
     </#list>
