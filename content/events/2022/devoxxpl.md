@@ -1,7 +1,7 @@
 title=DevoxxPL
 location=Krakow, PL
 url=https://www.devoxxpl.org/
-description=Devoxx Poland 2022.
+description=One of the flagship Devoxx events, in Poland.
 start=2022-06-22
 end=2022-06-24
 type=event

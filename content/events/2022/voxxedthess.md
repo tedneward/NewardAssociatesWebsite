@@ -1,7 +1,7 @@
 title=VoxxedDays:Thessaloniki
 location=Thessaloniki, Greece
 url=https://voxxeddays.com/thessaloniki/
-description=Seattle Java User's Group meeting.
+description=The VoxxedDays event comes to Thessaloniki.
 start=2022-06-24
 end=2022-06-25
 type=event

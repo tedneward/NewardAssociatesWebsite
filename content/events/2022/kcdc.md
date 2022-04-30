@@ -1,7 +1,7 @@
 title=KCDC 2022
 location=Kansas City, MO
 url=https://www.kcdc.info/
-description=A really cool event in KC, hence the name.
+description=A really cool developer conference in KC, hence the name.
 start=2022-08-08
 end=2022-08-20
 type=event
