@@ -15,7 +15,7 @@
     <li><a href="#manager"><em>Busy Managers's Guide</em></a> talks are geared towards those technical-minded folks who have taken (or are about to take) the step into leadership. They are more people-centric, but it's amazing how much an analytical mind can bring to what most people consider "squishy human topics".</p></li>
     <li><a href="#architecture"><em>Busy Architect's Guide</em></a> talks are geared towards the architect-level crowd, typically higher-level in nature and less code-centric.</p></li>
     <li><a href="#developer"><em>Busy Developer's Guide</em></a> talks are for any developer audience, regardless of their technical background. These are usually introductions to new languages, platforms, and/or other tools.
-    <li><em>Busy "X" Developer's Guide</em> talks (where "X" is one of <a href="#clr"><em>.NET</em></a>, <a href="#jvm"><em>Java</em></a>, <a href="#ecmascript"><em>Javascript</em></a>, and a few others) are talks written specifically for that sort of audience. They tend to dive deeper into things that are specific to that audience.</li>
+    <li><em>Busy "X" Developer's Guide</em> talks (where "X" is one of <a href="#clr"><em>.NET</em></a>, <a href="#jvm"><em>Java</em></a>, <a href="#javascript"><em>Javascript</em></a>, and a few others) are talks written specifically for that sort of audience. They tend to dive deeper into things that are specific to that audience.</li>
     </ul>
     Additionally, all of the talks are tagged; hit the <a href="${content.rootpath}tags/">tags page</a> and if a tag matches your interest, look for the "talk" links for that particular tag.
     </p>
