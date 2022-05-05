@@ -2,7 +2,7 @@ title=Busy Architect's Guide to CQRS
 type=talk
 audience=For any intermediate developer (2 or more years) audience
 tags=presentation, architecture,enterprise,distributed systems,messaging,webapi
-date=2022-03-02
+date=2022-05-04
 status=published
 ~~~~~~
 

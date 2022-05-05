@@ -2,7 +2,7 @@ title=Busy Developer's Guide to Management
 type=talk
 audience=For any intermediate developer (2 or more years) audience
 tags=presentation, concepts,management,developer
-date=2022-03-02
+date=2022-05-04
 status=published
 ~~~~~~
 

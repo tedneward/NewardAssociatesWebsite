@@ -2,7 +2,7 @@ title=Busy Developer's Guide to Proposing, Preparing and Delivering|a Technical 
 type=talk
 audience=For any intermediate (2+ years) developer audience
 tags=presentation, language,developer
-date=2022-03-02
+date=2022-05-04
 status=published
 ~~~~~~
 

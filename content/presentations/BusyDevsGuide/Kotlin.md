@@ -1,8 +1,8 @@
 title=Busy Developer's Guide to Kotlin
 type=talk
-audience=For any intermediate (2+ years) developer audience
+audience=A full-day workshop (smaller pieces available), for any intermediate (2+ years) developer audience
 tags=presentation, language,jvm,android,developer
-date=2022-03-02
+date=2022-05-04
 status=published
 ~~~~~~
 

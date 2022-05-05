@@ -1,8 +1,8 @@
 title=Busy Developer's Guide to Python
 type=talk
-audience=For any intermediate (2 or more years) developer audience
-tags=presentation, language,python,clr,developer
-date=2022-03-02
+audience=For any intermediate (2 or more years) developer audience; if you'd like it tailored to a specific (JVM or CLR) audience, let me know ahead of time
+tags=presentation, language,python,clr,jvm,developer
+date=2022-05-04
 status=published
 ~~~~~~
 

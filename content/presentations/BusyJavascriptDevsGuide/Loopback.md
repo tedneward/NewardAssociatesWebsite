@@ -1,0 +1,12 @@
+title=Busy Javascript Developer's Guide to Loopback
+type=talk
+audience=For any intermediate developer (2 or more years) audience
+tags=presentation, javascript,nodejs,web
+date=2022-05-04
+status=published
+~~~~~~
+
+    
+<hr />
+
+Slides: [HTML](http://slides.newardassociates.com/BusyJavascriptDevsGuide/Loopback.html) | [PPTX](http://slides.newardassociates.com/BusyJavascriptDevsGuide/Loopback.pptx)
