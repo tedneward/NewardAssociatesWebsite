@@ -6,7 +6,7 @@ date=2022-05-04
 status=published
 ~~~~~~
 
-      The Java Message Service API provides a unified programming interface to a variety of different messaging systems, and provides a necessary and important supplement to distributed communications. In this presentation, we'll go over the basics of messaging systems, the core JMS APIs, some configuration tips for popular JMS implementations, and the various message types that can be sent.
+The Java Message Service API provides a unified programming interface to a variety of different messaging systems, and provides a necessary and important supplement to distributed communications. In this presentation, we'll go over the basics of messaging systems, the core JMS APIs, some configuration tips for popular JMS implementations, and the various message types that can be sent.
     
 <hr />
 

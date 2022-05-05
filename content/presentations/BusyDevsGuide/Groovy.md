@@ -9,4 +9,4 @@ status=published
     
 <hr />
 
-Slides: [HTML](http://slides.newardassociates.com/BusyJavaDevsGuide/Groovy.html) | [PPTX](http://slides.newardassociates.com/BusyJavaDevsGuide/Groovy.pptx)
+Slides: [HTML](http://slides.newardassociates.com/BusyDevsGuide/Groovy.html) | [PPTX](http://slides.newardassociates.com/BusyDevsGuide/Groovy.pptx)
