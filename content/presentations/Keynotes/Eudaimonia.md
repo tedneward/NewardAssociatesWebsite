@@ -10,4 +10,4 @@ The ancient Greeks had a term, "eudaimonia", which, translated loosely, means "t
     
 <hr />
 
-Slides: [HTML](http://slides.newardassociates.com/Keynotes/JoyOfCoding.html) | [PPTX](http://slides.newardassociates.com/Keynotes/JoyOfCoding.pptx)
+Slides: [HTML](http://slides.newardassociates.com/Keynotes/Eudaimonia.html) | [PPTX](http://slides.newardassociates.com/Keynotes/Eudaimonia.pptx)
