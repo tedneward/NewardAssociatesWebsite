@@ -1,4 +1,4 @@
-title=DevOpsDays Des Moines
+title=DevOpsDays Agile Des Moines
 location=Des Moines, IA
 url=https://devopsdays.org/events/2022-des-moines/welcome/
 description=For the first time since 2019, DevOpsDays Des Moines is back, and we're joining forces with Agile Iowa to bring you an exciting conference.
