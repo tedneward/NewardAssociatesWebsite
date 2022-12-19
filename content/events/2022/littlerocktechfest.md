@@ -1,7 +1,7 @@
 title=Little Rock Tech Fest
 location=Little Rock, AK
-url=https://....
-description=....
+url=https://www.lrtechfest.com/
+description=A nifty (not-so-)little gathering of developers in the Little Rock, AK, area.
 start=2022-10-13
 end=2022-10-14
 type=event

@@ -15,3 +15,9 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+
+# This is my per-machine script to push builds to Site44/Dropbox
+bake.sh
+
+# Silly macOS Finder files....
+.DS_Store
