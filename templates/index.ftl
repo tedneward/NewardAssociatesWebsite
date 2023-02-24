@@ -3,8 +3,9 @@
 	<#include "menu.ftl">
 
 <div>
+<h1>Neward &amp; Associates</h1>
 <img src="img/javapolic.jpg" style="float:left; padding: 0px 24px 0px 8px;" />
-<p class="lead"><strong>Welcome to Ted Neward's Consulting Home on the Internet</strong></p>
+<p class="lead"><strong>Welcome to Ted Neward's Professional Home on the Internet</strong></p>
 
 <p>Thanks for your interest; we look forward to helping you find what you need. There's a few different reasons you might be here:
 
