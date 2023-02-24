@@ -36,10 +36,3 @@ Things people have said about, or to, Ted in various situations. Where known (or
 One of the things I like most about working with Ted was his direct honesty. He never held back on providing feedback. Sometimes I may not have liked hearing that an article I was writing had holes, but it was necessary and Ted provided valuable suggestions for improvement.
 
 I would highly recommend Ted to anybody looking to better their organization. Ted's technical skills, insights, and mentoring would be a great asset to any organization." --Michael Collier, Architectural Consultant, Neudesic, from <a href="http://www.linkedin.com/profile/view?id=14246291#recommendations">LinkedIn</a></blockquote>
-
-<!--
-<blockquote>, from <a href="http://www.linkedin.com/profile/view?id=14246291#recommendations">LinkedIn</a></blockquote>
-<blockquote>, from <a href="http://www.linkedin.com/profile/view?id=14246291#recommendations">LinkedIn</a></blockquote>
-<blockquote>, from <a href="http://www.linkedin.com/profile/view?id=14246291#recommendations">LinkedIn</a></blockquote>
-<blockquote>, from <a href="http://www.linkedin.com/profile/view?id=14246291#recommendations">LinkedIn</a></blockquote>
--->

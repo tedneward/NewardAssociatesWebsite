@@ -13,8 +13,8 @@ All of the articles below are predominantly in reverse-chronological order, gath
 
 MSDN Magazine is *(sadly, was; MSDN Magazine shut down at the end of 2019)* the print periodical dedicated to the Microsoft technology sphere, stretching all the way back to its days as "Microsoft Systems Journal" (MSJ) back in the 90's. I wrote a number of feature pieces for them, currently writes a monthly column, and even served a stint as the Guest Editor-in-Chief for one issue.
 
-* All of my MSDN Magazine content, [via MSDN Search](http://msdn.microsoft.com/en-us/magazine/ee532098.aspx?sdmr=TedNeward&sdmi=authors)
-* [Editor's Note: Flex Your Data](http://msdn.microsoft.com/en-us/magazine/063f98b0-e77c-414b-80b3-0dfa733f2a89): Written as a fill-in for a friend of mine who was Editor-in-Chief at the time
+* All of my MSDN Magazine content, [via MSDN Search](https://learn.microsoft.com/en-us/search/?terms=Ted%20Neward&category=Documentation)
+* [Editor's Note: Flex Your Data](https://learn.microsoft.com/en-us/archive/msdn-magazine/2008/july/editor-s-note-flex-your-data): Written as a fill-in for a friend of mine who was Editor-in-Chief at the time
 * [F# Primer: Use Functional Programming Techniques in the .NET Framework](http://msdn.microsoft.com/en-us/magazine/e6ca5101-2a62-431e-8709-4a1ba961cff5): Written to show off the F# language as part of its first production release in Visual Studio 2008
 
 Working Programmer (column)

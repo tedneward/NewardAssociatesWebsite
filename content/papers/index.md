@@ -20,3 +20,5 @@ Note that all of the papers listed below are copyright (c) Neward &amp; Associat
 ### Other Papers
 
 * [X-Power](PapersXSLFO.html)
+
+*Keep in mind that some of these are close to 20 years old by this point; the JVM has gone through a LOT of revisions since I wrote them, and some may not be as pertinent and are here mostly for historical curiosity.*
