@@ -1,8 +1,8 @@
-title=Busy Developer's Guide   to Clojure
+title=Busy Developer's Guide to Clojure
 type=talk
 audience=For any intermediate developer (2 or more years) audience
 tags=presentation, language,functional,jvm,developer
-date=2022-05-04
+date=2023-05-10
 status=published
 ~~~~~~
 

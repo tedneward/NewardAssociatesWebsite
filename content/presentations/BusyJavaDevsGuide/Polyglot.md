@@ -2,7 +2,7 @@ title=Busy Java Developer's Guide to Being a JVM Polyglot
 type=talk
 audience=For any intermediate Java (2 or more years) audience
 tags=presentation, api,jvm,functional,aspect-oriented,dynamic,concepts
-date=2022-05-04
+date=2023-05-10
 status=published
 ~~~~~~
 

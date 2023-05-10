@@ -2,7 +2,7 @@ title=Busy TypeScript Developer's Guide to Patterns in TypeScript
 type=talk
 audience=For any intermediate developer (2 or more years) audience already familiar with TypeScript
 tags=presentation, javascript,language
-date=2022-05-04
+date=2023-05-10
 status=published
 ~~~~~~
 

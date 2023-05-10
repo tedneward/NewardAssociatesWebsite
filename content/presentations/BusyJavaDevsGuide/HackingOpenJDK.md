@@ -2,7 +2,7 @@ title=Busy Java Developer's Guide to Hacking the OpenJDK
 type=talk
 audience=For any advanced Java audience with a deep backgroundin Java and a casual background or familiarity with C++, as a 90-minute or half-day presentation.
 tags=presentation, java,api,jvm
-date=2022-05-04
+date=2023-05-10
 status=published
 ~~~~~~
 

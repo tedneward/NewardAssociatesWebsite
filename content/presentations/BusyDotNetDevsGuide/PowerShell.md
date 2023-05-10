@@ -2,7 +2,7 @@ title=Busy .NET Developer's Guide to PowerShell
 type=talk
 audience=For any intermediate (2 or more years) .NET developer audience
 tags=presentation, language,web
-date=2022-05-04
+date=2023-05-10
 status=published
 ~~~~~~
 

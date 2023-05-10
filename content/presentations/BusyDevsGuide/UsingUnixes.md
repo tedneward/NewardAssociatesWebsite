@@ -2,7 +2,7 @@ title=Busy Microsoft Developer's Guide to Using UNIXes (MacOS, Linux)
 type=talk
 audience=For any intermediate (2+ years) developer audience
 tags=presentation, macos,linux,tools
-date=2022-05-04
+date=2023-05-10
 status=published
 ~~~~~~
 

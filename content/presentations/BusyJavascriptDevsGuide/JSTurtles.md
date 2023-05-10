@@ -2,7 +2,7 @@ title=Busy Javascript Developer's Guide to "JavaScript, All The Way Down"
 type=talk
 audience=For any intermediate developer (2 or more years) audience
 tags=presentation, javascript,web,nodejs
-date=2022-05-04
+date=2023-05-10
 status=published
 ~~~~~~
 

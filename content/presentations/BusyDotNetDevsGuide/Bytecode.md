@@ -2,7 +2,7 @@ title=Busy .NET Developer's Guide to CIL Bytecode
 type=talk
 audience=For any intermediate .NET developer (2 or more years) audience
 tags=presentation, clr,bytecode,virtual machines
-date=2022-05-04
+date=2023-05-10
 status=published
 ~~~~~~
 

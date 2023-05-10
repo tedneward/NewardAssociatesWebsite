@@ -2,7 +2,7 @@ title=Busy Architect's Guide   to Rules Engines
 type=talk
 audience=For any intermediate (2 or more years) developer audience
 tags=presentation, architecture,expert systems,rules engines
-date=2022-05-04
+date=2023-05-10
 status=published
 ~~~~~~
 

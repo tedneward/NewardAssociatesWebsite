@@ -2,7 +2,7 @@ title=Busy Architect's Case Study:   Dragonflight.org (2014)
 type=talk
 audience=For any intermediate architect or developer (2 or more years) audience
 tags=presentation, architecture,cloud,distributed systems,webapi,data storage,nosql
-date=2022-05-04
+date=2023-05-10
 status=published
 ~~~~~~
 

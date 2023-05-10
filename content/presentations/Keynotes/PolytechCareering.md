@@ -2,7 +2,7 @@ title=Polytechnical Careering
 type=talk
 audience=For any audience, recommended as a keynote presentation.
 tags=presentation, keynote,language,platform
-date=2022-05-04
+date=2023-05-10
 status=published
 ~~~~~~
 
