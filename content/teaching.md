@@ -63,7 +63,7 @@ Ted teaches as a guest lecturer for the University of Washington Informatics Sch
 * INFO448: Android Development (using Kotlin)
 * INFO449: iOS Development (using Swift)
 
-Many of the homework assignments he's given out to those classes are available on GitHub, and are listed below in the rough order they would appear in the class:
+Many of the homework assignments he's given out to those classes are available on GitHub. Students are expected to fork the repository and implement the solutions in their personal copy of the repo, which in turn helps build out the student's own portfolio of work that they can then show to interviewers. The assignments on GitHub are listed below, in the rough order they would appear in the class:
 
 * INFO314: Networking and Distributed Systems
 
