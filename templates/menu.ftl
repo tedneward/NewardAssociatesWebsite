@@ -26,6 +26,8 @@
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services <b class="caret"></b></a>
           <ul class="dropdown-menu">
             <li><a href="${content.rootpath}speaking.html">Speaking</a></li>
+            <li><a href="${content.rootpath}cto.html">Fractional CTO</a></li>
+            <li><a href="${content.rootpath}cto.html">Fractional CDRO</a></li>
             <li><a href="${content.rootpath}consulting.html">Consulting</a></li>
             <li><a href="${content.rootpath}teaching.html">Teaching</a></li>
             <li><a href="${content.rootpath}writing.html">Writing</a></li>
