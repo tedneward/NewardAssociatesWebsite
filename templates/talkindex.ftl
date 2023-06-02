@@ -28,7 +28,7 @@
 
     <hr />
 
-    <#assign ids = ["keynote", "management", "techie", "architecture", "developer", "jvm", "clr", "javascript"]>
+    <#assign ids = ["keynote", "manager", "techie", "architecture", "developer", "jvm", "clr", "javascript"]>
     <#assign names = ["Keynotes", "Busy Manager's Guide", "Busy Technologist's Guide", "Busy Architect's Guide", "Busy Developer's Guide", 
                       "Busy Java Developer's Guide", "Busy .NET Developer's Guide", "Busy Javascript Developer's Guide"]>
 
