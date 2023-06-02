@@ -1,4 +1,4 @@
-title=Busy Managers's Guide to Building Coaching Trees
+title=Busy Manager's Guide to Building Coaching Trees
 type=talk
 audience=For any intermediate developer (2 or more years) audience
 tags=presentation, concepts,management,developer

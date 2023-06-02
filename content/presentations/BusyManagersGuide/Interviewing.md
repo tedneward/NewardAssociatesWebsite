@@ -1,4 +1,4 @@
-title=Busy Managers's Guide to Interviewing
+title=Busy Manager's Guide to Interviewing
 type=talk
 audience=For new or intermediate (2 or more years) technical management audience
 tags=presentation, management

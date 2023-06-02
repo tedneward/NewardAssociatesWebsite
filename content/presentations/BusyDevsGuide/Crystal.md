@@ -1,7 +1,7 @@
 title=Busy Developer's Guide to Crystal
 type=talk
 audience=For any intermediate developer (2 or more years) audience
-tags=presentation, concepts,management,developer
+tags=presentation, language,developer
 date=2023-06-01
 status=published
 ~~~~~~
