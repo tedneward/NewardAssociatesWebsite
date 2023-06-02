@@ -2,7 +2,7 @@ title=Busy Managers's Guide to Being a New Manager
 type=talk
 audience=For new technical management audience
 tags=presentation, management
-date=2023-05-10
+date=2023-06-01
 status=published
 ~~~~~~
 

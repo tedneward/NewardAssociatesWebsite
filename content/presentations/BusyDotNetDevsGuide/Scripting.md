@@ -2,7 +2,7 @@ title=Busy .NET Developer's Guide to Scripting
 type=talk
 audience=For any intermediate .NET developer (2 or more years) audience
 tags=presentation, clr,scripting,language,games
-date=2023-05-10
+date=2023-06-01
 status=published
 ~~~~~~
 

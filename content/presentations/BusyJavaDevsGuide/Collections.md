@@ -2,7 +2,7 @@ title=Busy Java Developer's Guide to Collections
 type=talk
 audience=For any intermediate Java (2 or more years) audience; ideally as a half-day workshop or 2 90-minute presentations
 tags=presentation, jvm
-date=2023-05-10
+date=2023-06-01
 status=published
 ~~~~~~
 

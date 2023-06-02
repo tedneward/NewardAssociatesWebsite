@@ -2,7 +2,7 @@ title=Busy JavaScript Developer's Guide to SweetJS
 type=talk
 audience=For any intermediate developer (2 or more years) audience
 tags=presentation, javascript,language,nodejs,scheme,lisp
-date=2023-05-10
+date=2023-06-01
 status=published
 ~~~~~~
 

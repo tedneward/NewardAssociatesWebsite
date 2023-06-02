@@ -2,7 +2,7 @@ title=Busy Architect's Guide to DevOps
 type=talk
 audience=For any intermediate (2+ years) developer audience
 tags=presentation, architecture,enterprise,devops,continuous integration,continuous delivery
-date=2023-05-10
+date=2023-06-01
 status=published
 ~~~~~~
 
