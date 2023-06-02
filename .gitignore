@@ -18,6 +18,7 @@ gradle-app.setting
 
 # This is my per-machine script to push builds to Site44/Dropbox
 bake.sh
+bake.bat
 
 # Silly macOS Finder files....
 **/.DS_Store

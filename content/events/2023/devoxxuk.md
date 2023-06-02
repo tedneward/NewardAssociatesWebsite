@@ -11,5 +11,5 @@ status=published
 
 DevoxxUK is one of my favorite events to do in London, and getting back to London this year is high on my list after the pandemic put everything on hiatus. On the docket thus far:
 
-* Keynote: [Quick & Dirty (& Right)](http://www.newardassociates.com/presentations/Keynotes/QuickAndDirty.html)
+* [Quick & Dirty (& Right)](http://www.newardassociates.com/presentations/Keynotes/QuickAndDirty.html)
 * [The Busy Developer's Guide to Ballerina](http://www.newardassociates.com/presentations/BusyDevsGuide/Ballerina.html)

@@ -131,7 +131,7 @@ Ted's done a ton of projects over his career. These are some of them; details ar
 <div class="row-fluid" id="uw">
   <h3>Undergraduate Education – Seattle, WA</h3>
   <h4>Guest Faculty: Mobile Development</h4>
-  <p>I am guest faculty for the University of Washington, teaching graded courses on Android and iOS development to the undergras as part of the iSchool curriculum there (INFO 498: Special Topics in Informatics).</p>
+  <p>I am guest faculty for the University of Washington, teaching graded courses on a variety of software development topics to the undergrads as part of the iSchool curriculum there.</p>
 </div>
 <div class="row-fluid" id="mr">
   <h3>Microsoft - Redmond, WA</h3>
