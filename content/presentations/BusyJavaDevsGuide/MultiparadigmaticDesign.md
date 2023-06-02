@@ -2,7 +2,7 @@ title=Busy Java Developer's Guide to Multiparadigmatic Design in Java
 type=talk
 audience=For any intermediate Java (2 or more years) audience
 tags=presentation, java,jvm
-date=2023-06-01
+date=2023-06-02
 status=published
 ~~~~~~
 

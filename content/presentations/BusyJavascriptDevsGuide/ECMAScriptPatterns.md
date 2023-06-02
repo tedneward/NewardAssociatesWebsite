@@ -2,7 +2,7 @@ title=Busy Developer's Guide to ECMAScript Patterns
 type=talk
 audience=For any intermediate (2 or more years) developer audience
 tags=presentation, javascript,patterns
-date=2023-06-01
+date=2023-06-02
 status=published
 ~~~~~~
 

@@ -2,7 +2,7 @@ title=Busy Developer's Guide to Prolog
 type=talk
 audience=For any intermediate (2+ years) developer audience
 tags=presentation, language,developer
-date=2023-06-01
+date=2023-06-02
 status=published
 ~~~~~~
 

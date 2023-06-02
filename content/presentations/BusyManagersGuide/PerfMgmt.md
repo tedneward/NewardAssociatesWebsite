@@ -1,8 +1,8 @@
 title=Busy Manager's Guide to Performance Management
 type=talk
 audience=For any intermediate (2+ years) developer audience
-tags=presentation, management,developer
-date=2023-06-01
+tags=presentation, management
+date=2023-06-02
 status=published
 ~~~~~~
 

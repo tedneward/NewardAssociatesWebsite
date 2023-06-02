@@ -2,7 +2,7 @@ title=Busy .NET Developer's Guide to Orleans
 type=talk
 audience=For any intermediate (2+ years) developer audience
 tags=presentation, distributed systems,clr
-date=2023-06-01
+date=2023-06-02
 status=published
 ~~~~~~
 

@@ -12,10 +12,10 @@
     Ted organizes his presentations into a couple of categories, usually reflected in the title:
     <ul>
     <li><a href="#keynote"><em>Keynotes</em></a> are just what they sound like: highly conceptual presentations with minimal requirements of the audience (in other words, consumable by techie and non-techie alike) that are designed to get attendees to laugh, think, and be inspired, in equal amounts.</li>
-    <li><a href="#manager"><em>Busy Managers's Guide</em></a> talks are geared towards those technical-minded folks who have taken (or are about to take) the step into leadership. They are more people-centric, but it's amazing how much an analytical mind can bring to what most people consider "squishy human topics".</li>
+    <li><a href="#management"><em>Busy Managers's Guide</em></a> talks are geared towards those technical-minded folks who have taken (or are about to take) the step into leadership. They are more people-centric, but it's amazing how much an analytical mind can bring to what most people consider "squishy human topics".</li>
     <li><a href="#architecture"><em>Busy Architect's Guide</em></a> talks are geared towards the architect-level crowd, typically higher-level in nature and less code-centric.</li>
     <li><a href="#developer"><em>Busy Developer's Guide</em></a> talks are for any developer audience, regardless of their technical background. These are usually introductions to new languages, platforms, and/or other tools.</li>
-    <li><a href="#techie"><em>Busy Technologist's Guide</em></a> talks are for people comfortable with technology--developers, architects, managers, whomever.</li>
+    <li><a href="#technologist"><em>Busy Technologist's Guide</em></a> talks are for people comfortable with technology--developers, architects, managers, whomever.</li>
     <li><em>Busy "X" Developer's Guide</em> talks (where "X" is one of <a href="#clr"><em>.NET</em></a>, <a href="#jvm"><em>Java</em></a>, <a href="#javascript"><em>Javascript</em></a>, and a few others) are talks written specifically for that sort of audience. They tend to dive deeper into things that are specific to that audience.</li>
     </ul>
     Additionally, all of the talks are tagged; hit the <a href="${content.rootpath}tags/">tags page</a> and if a tag matches your interest, look for the "talk" links for that particular tag.
@@ -28,7 +28,7 @@
 
     <hr />
 
-    <#assign ids = ["keynote", "manager", "techie", "architecture", "developer", "jvm", "clr", "javascript"]>
+    <#assign ids = ["keynote", "management", "technologist", "architecture", "developer", "jvm", "clr", "javascript"]>
     <#assign names = ["Keynotes", "Busy Manager's Guide", "Busy Technologist's Guide", "Busy Architect's Guide", "Busy Developer's Guide", 
                       "Busy Java Developer's Guide", "Busy .NET Developer's Guide", "Busy Javascript Developer's Guide"]>
 

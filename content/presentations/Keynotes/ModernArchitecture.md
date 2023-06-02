@@ -2,7 +2,7 @@ title=Modern Architecture
 type=talk
 audience=For any audience, as a keynote presentation
 tags=presentation, keynote,architecture
-date=2023-06-01
+date=2023-06-02
 status=published
 ~~~~~~
 
