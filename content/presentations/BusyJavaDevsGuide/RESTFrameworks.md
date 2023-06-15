@@ -2,7 +2,7 @@ title=Busy Java Developer's Guide to REST Frameworks
 type=talk
 audience=For any intermediate Java (2 or more years) audience
 tags=presentation, java,jvm,api,web,platform-oriented development,http,web api
-date=2022-05-04
+date=2023-06-02
 status=published
 ~~~~~~
 

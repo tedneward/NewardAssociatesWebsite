@@ -2,7 +2,7 @@ title=Busy Architect's Guide to Java/.NET Interoperability
 type=talk
 audience=For any intermediate (2 or more years) .NET and/or Java developer audience; please specify your group's background when scheduling.
 tags=presentation, architecture,java,jvm,.net,clr
-date=2022-05-04
+date=2023-06-02
 status=published
 ~~~~~~
 

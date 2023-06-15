@@ -2,7 +2,7 @@ title=Why Functional Programming Matters
 type=talk
 audience=For any intermediate developer (2 or more years) audience
 tags=presentation, keynote,functional,language
-date=2022-05-04
+date=2023-06-02
 status=published
 ~~~~~~
 

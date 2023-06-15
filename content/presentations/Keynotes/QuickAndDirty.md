@@ -2,7 +2,7 @@ title=Quick & Dirty (&Right)
 type=talk
 audience=For any software developer audience and their management, recommended as a keynote presentation
 tags=presentation, keynote,psychology,management
-date=2022-05-04
+date=2023-06-02
 status=published
 ~~~~~~
 

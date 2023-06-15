@@ -2,7 +2,7 @@ title=Busy Javascript Developer's Guide to Angular
 type=talk
 audience=For any intermediate developer (2 or more years) audience, familiar with Javascript and HTML
 tags=presentation, javascript,web,single-page application
-date=2022-05-04
+date=2023-06-02
 status=published
 ~~~~~~
 

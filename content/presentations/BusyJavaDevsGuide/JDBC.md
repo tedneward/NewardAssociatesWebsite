@@ -2,7 +2,7 @@ title=Busy Java Developer's Guide to JDBC
 type=talk
 audience=For any intermediate Java (2 or more years) audience as 2 90-minute presentations or a half-day workshop
 tags=presentation, java,jvm
-date=2022-05-04
+date=2023-06-02
 status=published
 ~~~~~~
 

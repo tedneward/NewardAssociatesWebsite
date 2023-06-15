@@ -2,7 +2,7 @@ title=Busy Architect's Guide to REST
 type=talk
 audience=For any intermediate developer (2 or more years) audience
 tags=presentation, architecture,enterprise,distributed systems,webapi
-date=2022-05-04
+date=2023-06-02
 status=published
 ~~~~~~
 

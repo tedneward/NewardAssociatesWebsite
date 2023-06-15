@@ -1,8 +1,8 @@
-title=Busy Developer's Guide to Rules Engines
+title=Busy Developer's Guide to Expert Systems
 type=talk
 audience=For any intermediate (2 or more years) developer audience
 tags=presentation, developer,jvm,clr,rules engines
-date=2022-05-04
+date=2023-06-02
 status=published
 ~~~~~~
 

@@ -1,8 +1,8 @@
-title=Busy Developer's Guide to Proposing, Preparing and Delivering|a Technical Talk
+title=Busy Technologist's Guide to Proposing, Preparing and Delivering|a Technical Talk
 type=talk
-audience=For any intermediate (2+ years) developer audience
-tags=presentation, language,developer
-date=2022-05-04
+audience=For any intermediate (2+ years) developer audience; this can either be a 60-minute, 90-minute, three-hour, or all-day presentation or workshop
+tags=presentation, speaking,technologist
+date=2023-06-02
 status=published
 ~~~~~~
 
@@ -10,4 +10,4 @@ The fear of public speaking actually exceeds the fear of death. (And the dentist
     
 <hr />
 
-Slides: [HTML](http://slides.newardassociates.com/BusyDevsGuide/TechTalk.html) | [PPTX](http://slides.newardassociates.com/BusyDevsGuide/TechTalk.pptx)
+Slides: [HTML](http://slides.newardassociates.com/BusyTechiesGuide/TechTalk.html) | [PPTX](http://slides.newardassociates.com/BusyTechiesGuide/TechTalk.pptx)
