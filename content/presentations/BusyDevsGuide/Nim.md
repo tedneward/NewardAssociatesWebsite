@@ -1,7 +1,7 @@
 title=Busy Developer's Guide to Nim
 type=talk
 audience=For any intermediate developer (2 or more years) audience
-tags=presentation, concepts,developer
+tags=presentation, concepts, developer
 date=2023-06-02
 status=published
 ~~~~~~

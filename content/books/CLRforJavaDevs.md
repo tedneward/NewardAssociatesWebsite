@@ -1,5 +1,6 @@
 title=.NET for Java Developers
 image=https://dotnet.microsoft.com/static/images/redesign/learn/dotnet-for-java-developers/book-cover.png
+link=https://dotnet.microsoft.com/static/images/redesign/learn/dotnet-for-java-developers
 date=2018-08-01
 type=book
 tags=book, clr, jvm
