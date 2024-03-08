@@ -1,4 +1,4 @@
-title=DevoxxPoland 2023
+title=DevoxxPoland 2024
 location=Krakow, Poland
 url=https://devoxxpl.com/
 description=The Devoxx conference series in Krakow.
