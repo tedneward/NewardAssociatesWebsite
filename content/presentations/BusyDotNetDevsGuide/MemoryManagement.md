@@ -2,7 +2,7 @@ title=Busy .NET Developer's Guide to Memory Management
 type=talk
 audience=For any intermediate C# developer (2 or more years) audience
 tags=presentation, clr
-date=2023-06-02
+date=2024-04-25
 status=published
 ~~~~~~
 

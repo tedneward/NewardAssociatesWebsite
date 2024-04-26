@@ -2,7 +2,7 @@ title=Busy Manager's Guide to Teams
 type=talk
 audience=For new or intermediate (2 or more years) technical management audience
 tags=presentation, management
-date=2023-06-02
+date=2024-04-25
 status=published
 ~~~~~~
 

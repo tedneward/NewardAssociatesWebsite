@@ -2,13 +2,13 @@ title=Busy Developer's Guide to Languages You Should Know (But Don't)
 type=talk
 audience=For any intermediate developer (2 or more years) audience
 tags=presentation, concepts,history,developer
-date=2023-06-02
+date=2024-04-25
 status=published
 ~~~~~~
 
-The programming industry is approaching the end of its first century of existence, and along the way numerous languages (even platforms) have been invented, popular, and then put aside as newer and shinier languages emerged. Some of these languages, though, still send ripples through the industry today, and knowing them means you understand how they influence the languages (and idioms and patterns and designs) that you use today.
+In the "Pragmatic Programmer", Dave Thomas and Andy Hunt suggest that every programmer should learn a new programming language every year--but they don't tell you which ones to learn! And in a world with so many different programming languages, it can be hard to figure out what to study next. Do you go after Swift? Kotlin? Rust, or Nim, or Zig? Do you pursue one of the "critic's darlings" like Elixir or Erlang, or do you take a page from history and learn something from our ancient past, like FORTRAN or COBOL?
 
-In this talk, we're going to step into the Wayback Machine, and explore these languages, why they were interesting, and what you can learn from them that will influence and shape the way you use the languages you're using today.
+In this presentation, we're going to identify a path for developers to learn languages which challenge our preconceptions, get us to embrace some new ideas, but always with an eye towards the practical. After all, learning an obscure language is fun, but learning an obscure language that helps open our minds to wild new concepts that we can use in our everyday work... that's gold.
     
 <hr />
 

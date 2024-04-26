@@ -2,7 +2,7 @@ title=Busy Java Developer's Guide to Functional Programming in Java
 type=talk
 audience=For any intermediate Java (2 or more years) audience
 tags=presentation, java,functional
-date=2023-06-02
+date=2024-04-25
 status=published
 ~~~~~~
 
