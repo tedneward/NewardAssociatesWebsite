@@ -2,7 +2,7 @@ title=Busy Developer's Guide to Expert Systems
 type=talk
 audience=For any intermediate (2 or more years) developer audience
 tags=presentation, developer,jvm,clr,rules engines
-date=2024-04-25
+date=2024-05-06
 status=published
 ~~~~~~
 

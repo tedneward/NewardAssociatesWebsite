@@ -2,7 +2,7 @@ title=Busy Developer's Guide to Yeti
 type=talk
 audience=For any intermediate Java (2 or more years) audience
 tags=presentation, jvm,language,functional
-date=2024-04-25
+date=2024-05-06
 status=published
 ~~~~~~
 

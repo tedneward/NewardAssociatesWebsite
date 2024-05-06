@@ -2,7 +2,7 @@ title=Busy Architect's Guide   to Platform-Oriented Architecture
 type=talk
 audience=For any intermediate architect or developer (2 or more years) audience
 tags=presentation, architecture,enterprise,cloud,distributed systems,webapi,messaging
-date=2024-04-25
+date=2024-05-06
 status=published
 ~~~~~~
 

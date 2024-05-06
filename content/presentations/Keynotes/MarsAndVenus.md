@@ -2,7 +2,7 @@ title=Managers are from Mars, Developers are from Venus
 type=talk
 audience=For any software developer audience and their management, recommended as a keynote presentation
 tags=presentation, keynote,psychology,management
-date=2024-04-25
+date=2024-05-06
 status=published
 ~~~~~~
 

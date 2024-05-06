@@ -2,7 +2,7 @@ title=Busy Java Developer's Guide to JRuby
 type=talk
 audience=For any intermediate (2 or more years) Java developer audience
 tags=presentation, language,web
-date=2024-04-25
+date=2024-05-06
 status=published
 ~~~~~~
 

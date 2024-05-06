@@ -2,7 +2,7 @@ title=Busy Developer's Guide to Rust
 type=talk
 audience=For any intermediate (2+ years) developer audience
 tags=presentation, language
-date=2024-04-25
+date=2024-05-06
 status=published
 ~~~~~~
 

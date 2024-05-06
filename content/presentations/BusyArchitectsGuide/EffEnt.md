@@ -2,7 +2,7 @@ title=Busy Architect's Guide   to Effective Enterprise Architecture
 type=talk
 audience=For any intermediate architect audience, as a 90-minute presentation, half-day tutorial/workshop or full day tutorial/workshop.
 tags=presentation, architecture,enterprise,distributed systems,data storage,cloud,security
-date=2024-04-25
+date=2024-05-06
 status=published
 ~~~~~~
 
