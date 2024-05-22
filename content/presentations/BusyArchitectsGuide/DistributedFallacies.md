@@ -2,7 +2,7 @@ title=Busy Architect's Guide   to the Fallacies of Distributed Systems
 type=talk
 audience=For any intermediate developer audience, recommended as a half-day tutorial/workshop.
 tags=presentation, architecture,enterprise,distributed systems,data storage,security
-date=2023-06-02
+date=2024-04-24
 status=published
 ~~~~~~
 

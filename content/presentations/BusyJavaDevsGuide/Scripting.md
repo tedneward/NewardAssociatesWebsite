@@ -2,7 +2,7 @@ title=Busy Java Developer's Guide to Scripting
 type=talk
 audience=For any intermediate Java (2 or more years) audience, as a 90-minute presentation.
 tags=presentation, api,jvm,languages,concepts
-date=2023-06-02
+date=2024-04-24
 status=published
 ~~~~~~
 

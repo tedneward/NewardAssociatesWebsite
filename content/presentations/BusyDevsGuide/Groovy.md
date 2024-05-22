@@ -2,7 +2,7 @@ title=Busy Developer's Guide to Groovy
 type=talk
 audience=For any intermediate JVM (2 or more years) audience
 tags=presentation, languages,jvm
-date=2023-06-02
+date=2024-04-24
 status=published
 ~~~~~~
 

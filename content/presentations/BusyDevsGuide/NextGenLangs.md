@@ -1,8 +1,8 @@
 title=Busy Developer's Guide to Next-Generation Languages
 type=talk
 audience=For any intermediate (2+ years) developer audience
-tags=presentation, language, web, mobile, natural language, concepts, developer
-date=2023-06-02
+tags=presentation, language,natural language
+date=2024-04-24
 status=published
 ~~~~~~
 

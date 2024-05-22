@@ -2,7 +2,7 @@ title=Busy Developer's Guide to CouchDB
 type=talk
 audience=For any intermediate developer (2 or more years) audience
 tags=presentation, nosql,rest,data storage,developer
-date=2023-06-02
+date=2024-04-24
 status=published
 ~~~~~~
 

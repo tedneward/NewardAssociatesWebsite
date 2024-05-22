@@ -2,7 +2,7 @@ title=Busy Developer's Guide to Using UNIXes (MacOS, Linux)
 type=talk
 audience=For any intermediate (2+ years) developer audience
 tags=presentation, macos,linux,tools
-date=2023-06-02
+date=2024-04-24
 status=published
 ~~~~~~
 

@@ -2,7 +2,7 @@ title=Busy Developer's Guide to Game Design
 type=talk
 audience=For any intermediate developer (2 or more years) audience
 tags=presentation, games,concepts
-date=2023-06-02
+date=2024-04-24
 status=published
 ~~~~~~
 

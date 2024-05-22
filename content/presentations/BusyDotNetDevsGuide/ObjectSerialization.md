@@ -2,7 +2,7 @@ title=Busy .NET Developer's Guide to Object Serialization
 type=talk
 audience=For any intermediate .NET (2 or more years) audience
 tags=presentation, .net,api,clr
-date=2023-06-02
+date=2024-04-24
 status=published
 ~~~~~~
 

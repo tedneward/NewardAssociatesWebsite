@@ -2,7 +2,7 @@ title=Busy Developer's Guide to Mint
 type=talk
 audience=For any intermediate (2+ years) developer audience
 tags=presentation, language,developer,presentation,web
-date=2023-06-02
+date=2024-04-24
 status=published
 ~~~~~~
 

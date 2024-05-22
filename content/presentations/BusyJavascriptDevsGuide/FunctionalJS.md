@@ -2,7 +2,7 @@ title=Busy JavaScript Developer's Guide to Functional Programming
 type=talk
 audience=For any intermediate JavaScript developer (2 or more years) audience
 tags=presentation, javascript,functional,language
-date=2023-06-02
+date=2024-04-24
 status=published
 ~~~~~~
 
