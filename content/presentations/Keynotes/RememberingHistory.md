@@ -2,7 +2,7 @@ title=Remembering History
 type=talk
 audience=For any audience, recommended as a keynote presentation
 tags=presentation, keynote,distributed systems
-date=2024-05-06
+date=2024-05-22
 status=published
 ~~~~~~
 

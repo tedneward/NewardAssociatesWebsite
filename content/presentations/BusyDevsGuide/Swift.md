@@ -2,7 +2,7 @@ title=Busy Developer's Guide to Swift
 type=talk
 audience=For any intermediate (2+ years) developer audience, as a 90-minute presentation.
 tags=presentation, ios,osx,object-oriented,functional,language,developer
-date=2024-05-06
+date=2024-05-22
 status=published
 ~~~~~~
 
