@@ -2,7 +2,7 @@ title=Busy Developer's Guide to Dart
 type=talk
 audience=For any intermediate (2+ years) developer audience
 tags=presentation, language,javascript,developer
-date=2024-04-24
+date=2024-05-06
 status=published
 ~~~~~~
 

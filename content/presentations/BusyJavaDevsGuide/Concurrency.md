@@ -2,7 +2,7 @@ title=Busy Java Developer's Guide to Concurrency
 type=talk
 audience=For any beginning to intermediate Java audience, as 2 90-minute presentations or a half-day tutorial.
 tags=presentation, api,java
-date=2024-04-24
+date=2024-05-06
 status=published
 ~~~~~~
 

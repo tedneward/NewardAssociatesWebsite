@@ -2,7 +2,7 @@ title=Busy Architect's Guide   to Architecting for the Cloud
 type=talk
 audience=For any architect and/or intermediate developer audience
 tags=presentation, architecture,enterprise,cloud,distributed systems,data storage,security
-date=2024-04-24
+date=2024-05-06
 status=published
 ~~~~~~
 

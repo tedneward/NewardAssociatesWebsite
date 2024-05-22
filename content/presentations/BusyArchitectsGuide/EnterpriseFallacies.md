@@ -2,7 +2,7 @@ title=Busy Architect's Guide   to the Fallacies of Enterprise Systems
 type=talk
 audience=For any intermediate developer audience, recommended as a half-day tutorial/workshop.
 tags=presentation, architecture,enterprise,distributed systems,data storage,security
-date=2024-04-24
+date=2024-05-06
 status=published
 ~~~~~~
 
