@@ -2,7 +2,7 @@ title=Busy Javascript Developer's Guide to ReactNative
 type=talk
 audience=For any intermediate developer (2 or more years) audience
 tags=presentation, javascript,mobile,ios,android,nodejs,web
-date=2024-05-06
+date=2024-05-22
 status=published
 ~~~~~~
 

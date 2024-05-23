@@ -2,7 +2,7 @@ title=Why the Next Five Years Will Be About Languages
 type=talk
 audience=For any audience, recommended as a keynote presentation.
 tags=presentation, keynote,language
-date=2024-05-06
+date=2024-05-22
 status=published
 ~~~~~~
 

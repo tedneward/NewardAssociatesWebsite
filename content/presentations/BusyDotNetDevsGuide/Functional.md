@@ -2,7 +2,7 @@ title=Busy .NET Developer's Guide to Functional Programming
 type=talk
 audience=For any intermediate (2 or more years) .NET developer audience
 tags=presentation, language,functional
-date=2024-05-06
+date=2024-05-22
 status=published
 ~~~~~~
 

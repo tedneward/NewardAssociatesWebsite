@@ -2,7 +2,7 @@ title=Busy Developer's Intro to Architecture
 type=talk
 audience=For any intermediate (2 or more years) developer audience; for best results, use as an intro to the Architectural Kataas exercise
 tags=presentation, architecture,developer
-date=2024-05-06
+date=2024-05-22
 status=published
 ~~~~~~
 

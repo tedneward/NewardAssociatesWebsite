@@ -2,7 +2,7 @@ title=Busy Technologist's Guide to Proposing, Preparing and Delivering|a Technic
 type=talk
 audience=For any intermediate (2+ years) developer audience; this can either be a 60-minute, 90-minute, three-hour, or all-day presentation or workshop
 tags=presentation, speaking,technologist
-date=2024-05-06
+date=2024-05-22
 status=published
 ~~~~~~
 

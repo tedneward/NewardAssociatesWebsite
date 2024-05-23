@@ -2,7 +2,7 @@ title=Busy Architects's Guide   to Pragmatic Messaging
 type=talk
 audience=For all audiences, recommended as a keynote, 90-minute presentation, half-day or full-day tutorial. Please specify your audience's background when scheduling.
 tags=presentation, architecture,enterprise,distributed systems,messaging
-date=2024-05-06
+date=2024-05-22
 status=published
 ~~~~~~
 
