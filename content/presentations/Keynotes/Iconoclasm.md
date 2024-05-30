@@ -2,7 +2,7 @@ title=Iconoclasm
 type=talk
 audience=For any audience, recommended as a keynote presentation.
 tags=presentation, keynote,psychology
-date=2024-05-22
+date=2024-05-30
 status=published
 ~~~~~~
 

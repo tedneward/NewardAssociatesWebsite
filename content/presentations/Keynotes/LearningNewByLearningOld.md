@@ -2,7 +2,7 @@ title=Learning the New, by Learning the Old
 type=talk
 audience=For any audience, recommended as a keynote presentation.
 tags=presentation, keynote,language
-date=2024-05-22
+date=2024-05-30
 status=published
 ~~~~~~
 

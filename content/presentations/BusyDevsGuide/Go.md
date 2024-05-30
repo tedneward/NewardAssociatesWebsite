@@ -1,8 +1,8 @@
 title=Busy Developer's Guide to Go
 type=talk
 audience=For any intermediate (2+ years) developer audience
-tags=presentation, language,native
-date=2024-05-22
+tags=presentation, developer,language,native
+date=2024-05-30
 status=published
 ~~~~~~
 

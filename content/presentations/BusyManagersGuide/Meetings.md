@@ -2,7 +2,7 @@ title=Busy Manager's Guide to Successful Meetings
 type=talk
 audience=For any intermediate (2+ years) developer audience
 tags=presentation, management
-date=2024-05-22
+date=2024-05-30
 status=published
 ~~~~~~
 

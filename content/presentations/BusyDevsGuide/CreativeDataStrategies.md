@@ -1,8 +1,8 @@
 title=Busy Developer's Intro to Creative Data Strategies
 type=talk
 audience=For any intermediate (2 or more years) developer audience
-tags=presentation, architecture,data storage,cloud,distributed systems
-date=2024-05-22
+tags=presentation, architecture,data storage,cloud,distributed systems,user interface
+date=2024-05-30
 status=published
 ~~~~~~
 

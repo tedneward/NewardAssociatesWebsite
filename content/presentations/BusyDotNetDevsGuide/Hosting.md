@@ -2,7 +2,7 @@ title=Busy .NET Developer's Guide to Hosting and DI
 type=talk
 audience=For any intermediate (2+ years) developer audience
 tags=presentation, clr
-date=2024-05-22
+date=2024-05-30
 status=published
 ~~~~~~
 
