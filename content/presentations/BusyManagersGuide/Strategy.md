@@ -2,7 +2,7 @@ title=Busy Manager's Guide to Strategy
 type=talk
 audience=For new or intermediate (2 or more years) technical management audience
 tags=presentation, management
-date=2024-05-22
+date=2024-05-30
 status=published
 ~~~~~~
 

@@ -2,7 +2,7 @@ title=Busy Java Developer's Guide to GraalVM
 type=talk
 audience=For any intermediate (2 or more years) Java audience
 tags=presentation, java,javascript,language implementations,llvm,python,r,webassembly,virtual machine implementation
-date=2024-05-22
+date=2024-05-30
 status=published
 ~~~~~~
 

@@ -2,7 +2,7 @@ title=Busy Java Developer's Guide to JMS
 type=talk
 audience=For any intermediate Java (2 or more years) audience
 tags=presentation, java,jvm
-date=2024-05-22
+date=2024-05-30
 status=published
 ~~~~~~
 

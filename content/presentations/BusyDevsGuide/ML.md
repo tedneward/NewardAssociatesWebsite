@@ -2,7 +2,7 @@ title=Busy Developer's Guide to the ML programming language
 type=talk
 audience=For any intermediate (2+ years) developer audience
 tags=presentation, language,functional,developer
-date=2024-05-22
+date=2024-05-30
 status=published
 ~~~~~~
 

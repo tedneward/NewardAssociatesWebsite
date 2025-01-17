@@ -2,7 +2,7 @@ title=Busy Developer's Guide to AspectJ
 type=talk
 audience=For any intermediate (2+ years) developer audience
 tags=presentation, language,developer,jvm
-date=2024-05-22
+date=2024-05-30
 status=published
 ~~~~~~
 
