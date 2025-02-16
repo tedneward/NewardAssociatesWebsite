@@ -1,7 +1,7 @@
 title=VSLive! Redmond
 location=Redmond, WA
-url=
-description=
+url=https://vslive.com/events/microsofthq-2025/home.aspx
+description=As technology continues its rapid, endless march toward the future, we hope you will join us in Redmond, WA this August at Microsoft Headquarters and let us help you grow, succeed, and truly thrive.
 start=2025-08-04
 end=2025-08-08
 type=event
