@@ -11,5 +11,5 @@ status=published
 
 Back again in the land of great BBQ, Andy Reid, and flat farmland--lots and lots of flat farmland. This time around, I'll be doing:
 
-* TBA
+* 
 
