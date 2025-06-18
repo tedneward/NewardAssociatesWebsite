@@ -2,7 +2,7 @@ title=Busy Developer's Guide to Next-Generation Languages
 type=talk
 audience=For any intermediate (2+ years) developer audience
 tags=presentation, language,natural language,developer,jvm,clr,javascript,user interface
-date=2024-05-30
+date=2025-06-18
 status=published
 ~~~~~~
 

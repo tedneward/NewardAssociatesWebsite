@@ -11,5 +11,7 @@ status=published
 
 Back again in the land of great BBQ, Andy Reid, and flat farmland--lots and lots of flat farmland. This time around, I'll be doing:
 
-* 
+* This year I'll be doing the [Busy Developer's Guide to Writing (Prose)](../../presentations/BusyDevsGuide/Writing.html). Yes, literally, writing natural language, both why and how to do it.
+
+
 

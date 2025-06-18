@@ -11,8 +11,8 @@ status=published
 
 Once again, it's back to Universal in Orlando, to deliver the following:
 
-* 
-* 
+* This year I'll be doing the [Busy Developer's Guide to Writing (Prose)](../../presentations/BusyDevsGuide/Writing.html). Yes, literally, writing natural language, both why and how to do it.
+* As well as the [Busy .NET Developer's Guide to Python](https://www.newardassociates.com/presentations/BusyDevsGuide/Python.html)
 
 ... as well as be a part of a panel and the "wrap" party at the end of the conference week.
 
