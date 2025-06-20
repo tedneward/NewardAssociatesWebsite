@@ -2,7 +2,7 @@ title=Busy Developer's Guide to Garbage Collection
 type=talk
 audience=For any intermediate (2+ years) developer audience
 tags=presentation, virtual machines,jvm,clr,llvm,ios,android,nodejs,ruby,developer
-date=2025-06-18
+date=2025-06-20
 status=published
 ~~~~~~
 

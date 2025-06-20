@@ -2,7 +2,7 @@ title=Busy .NET Developer's Guide to Reflection
 type=talk
 audience=For any intermediate .NET (2 or more years in any .NET language) audience
 tags=presentation, clr
-date=2025-06-18
+date=2025-06-20
 status=published
 ~~~~~~
 

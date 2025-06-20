@@ -2,7 +2,7 @@ title=Busy Architects Guide to   Modern Web Architecture
 type=talk
 audience=For any architect-minded audience with some familiarity of architectural topics, as a 90-minute presentation
 tags=presentation, architecture,enterprise,distributed systems,webapi,messaging
-date=2025-06-18
+date=2025-06-20
 status=published
 ~~~~~~
 

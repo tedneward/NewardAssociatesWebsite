@@ -2,7 +2,7 @@ title=Busy Manager's Guide to Manager Antipatterns
 type=talk
 audience=For any intermediate developer (2 or more years) audience
 tags=presentation, concepts,management
-date=2025-06-18
+date=2025-06-20
 status=published
 ~~~~~~
 
