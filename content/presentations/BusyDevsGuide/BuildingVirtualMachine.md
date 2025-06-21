@@ -2,7 +2,7 @@ title=Busy Developer's Guide to Building A Bytecode Virtual Machine
 type=talk
 audience=For any intermediate developer (2 or more years) audience
 tags=presentation, languages,virtual machines,developer
-date=2024-05-30
+date=2025-06-20
 status=published
 ~~~~~~
 
@@ -10,4 +10,4 @@ Virtual machines rule the world of programming right now: the Java Virtual Machi
     
 <hr />
 
-Slides: [HTML](http://slides.newardassociates.com/BusyDevsGuide/BuildingAVirtualMachine.html) | [PPTX](http://slides.newardassociates.com/BusyDevsGuide/BuildingAVirtualMachine.pptx)
+Slides: [HTML](http://slides.newardassociates.com/BusyDevsGuide/BuildingVirtualMachine.html) | [PPTX](http://slides.newardassociates.com/BusyDevsGuide/BuildingVirtualMachine.pptx)

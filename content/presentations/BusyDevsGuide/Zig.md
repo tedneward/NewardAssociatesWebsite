@@ -1,12 +1,12 @@
 title=Busy Developer's Guide to Zig
 type=talk
 audience=For any intermediate developer (2 or more years) audience
-tags=presentation, concepts,developer
-date=2024-05-30
+tags=presentation, concepts,developer,language,system
+date=2025-06-20
 status=published
 ~~~~~~
 
-Zig....
+Zig is a "general-purpose programming language and toolchain for maintaining robust, optimal and reusable software", and makes some interesting claims, one of which is that it competes with C (rather than just interoperates with it) and uses C libraries better than C does. In short, Zig is a system-level native-compilation language, and in this presentation, we'll take a hard look at this language that looks to prove a faster-and-safer C.
     
 <hr />
 

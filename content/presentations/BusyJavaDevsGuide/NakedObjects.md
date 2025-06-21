@@ -2,7 +2,7 @@ title=Busy Java Developer's Guide   to NakedObjects
 type=talk
 audience=For any intermediate developer (2 or more years) audience
 tags=presentation, java,object-oriented
-date=2024-05-30
+date=2025-06-20
 status=published
 ~~~~~~
 

@@ -2,7 +2,7 @@ title=Busy Architect's Guide   to Distributed Systems
 type=talk
 audience=For any intermediate audience, as a keynote, 90-minute session, half-day or full-day tutorial.
 tags=presentation, architecture,enterprise,distributed systems,messaging,xml
-date=2024-05-30
+date=2025-06-20
 status=published
 ~~~~~~
 

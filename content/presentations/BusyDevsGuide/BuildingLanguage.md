@@ -2,7 +2,7 @@ title=Busy Developer's Guide to Building A Programming Language
 type=talk
 audience=For any intermediate developer (2 or more years) audience
 tags=presentation, languages,virtual machines,developer
-date=2024-05-30
+date=2025-06-20
 status=published
 ~~~~~~
 
@@ -10,4 +10,4 @@ Ever wanted to truly explore what it would be like to be a James Gosling, or a B
     
 <hr />
 
-Slides: [HTML](http://slides.newardassociates.com/BusyDevsGuide/BuildingLanguages.html) | [PPTX](http://slides.newardassociates.com/BusyDevsGuide/BuildingLanguages.pptx)
+Slides: [HTML](http://slides.newardassociates.com/BusyDevsGuide/BuildingLanguage.html) | [PPTX](http://slides.newardassociates.com/BusyDevsGuide/BuildingLanguage.pptx)

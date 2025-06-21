@@ -2,7 +2,7 @@ title=Busy Developer's Guide to Building A Database
 type=talk
 audience=For any intermediate developer (2 or more years) audience
 tags=presentation, languages,database,developer
-date=2024-05-30
+date=2025-06-20
 status=published
 ~~~~~~
 
@@ -10,4 +10,4 @@ We use them all the time, but we're often not quite sure how they work. Submit a
     
 <hr />
 
-Slides: [HTML](http://slides.newardassociates.com/BusyDevsGuide/BuildingADatabase.html) | [PPTX](http://slides.newardassociates.com/BusyDevsGuide/BuildingADatabase.pptx)
+Slides: [HTML](http://slides.newardassociates.com/BusyDevsGuide/BuildingDatabase.html) | [PPTX](http://slides.newardassociates.com/BusyDevsGuide/BuildingDatabase.pptx)

@@ -2,7 +2,7 @@ title=Busy Developer's Guide to Julia
 type=talk
 audience=For any intermediate (2+ years) developer audience
 tags=presentation, language,developer,scientific
-date=2024-05-30
+date=2025-06-20
 status=published
 ~~~~~~
 
