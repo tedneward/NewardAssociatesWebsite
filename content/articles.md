@@ -11,7 +11,7 @@ All of the articles below are predominantly in reverse-chronological order, gath
 
 ### MSDN Magazine
 
-MSDN Magazine is *(sadly, was; MSDN Magazine shut down at the end of 2019)* the print periodical dedicated to the Microsoft technology sphere, stretching all the way back to its days as "Microsoft Systems Journal" (MSJ) back in the 90's. I wrote a number of feature pieces for them, currently writes a monthly column, and even served a stint as the Guest Editor-in-Chief for one issue.
+MSDN Magazine is *(sadly, was; MSDN Magazine shut down at the end of 2019)* the print periodical dedicated to the Microsoft technology sphere, stretching all the way back to its days as "Microsoft Systems Journal" (MSJ) back in the 90's. I wrote a number of feature pieces for them, currently writes a monthly column, and even served a stint as the Guest Editor-in-Chief for one issue. *(Most of these will redirect to their "archive" home still on the Microsoft web properties, but I can't say how long they will remain live. The Microsoft site itself marks them all with a disclaimer that they are not guaranteed to be accurate today, which in of itself tells you a little something about their age. Sigh.)*
 
 * All of my MSDN Magazine content, [via MSDN Search](https://learn.microsoft.com/en-us/search/?terms=Ted%20Neward&category=Documentation)
 * [Editor's Note: Flex Your Data](https://learn.microsoft.com/en-us/archive/msdn-magazine/2008/july/editor-s-note-flex-your-data): Written as a fill-in for a friend of mine who was Editor-in-Chief at the time
@@ -330,7 +330,7 @@ Oracle TechNet is the website for all things Oracle, ranging from their database
 * Quite possibly my most famous piece, "The Vietnam of Computer Science", available on <a href="http://blogs.tedneward.com/2006/06/26/The+Vietnam+Of+Computer+Science.aspx">my blog</a>.
 * The Vietnam of Computer Science generated some interest from the OODBMS community, and they asked me to write a followup, <a href="http://odbms.org/download/031.02%20Neward%20Avoiding%20the%20Quagmire%20May%202007.PDF">"Avoiding the Quagmire"</a> (ODBMS.org).
 * *Comparing LINQ and its Contemporaries* (Microsoft)
-* I wrote a half-dozen articles for the MSDN website, as part of a series we called "Pragmatic Architecture":
+* I wrote a half-dozen feature-sized articles for the MSDN website, as part of a series we called "Pragmatic Architecture":
     * *Layering*
     * *Security*
     * *User Interface*
