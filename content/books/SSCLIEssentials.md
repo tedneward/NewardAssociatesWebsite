@@ -9,4 +9,4 @@ status=published
 
 SSCLI Essentials was an in-depth, source-first look at the open-source version of the .NET Common Language Runtime; not ".NET Core", but the *first* one, the Shared Source CLI, code-named "Rotor".
 
-We wrote it originally for Microsoft University, then wrote a second edition and released it free to the world, [here](http://www.newardassociates.com/files/SSCLI2.pdf).
+We wrote it originally for Microsoft University, then wrote a second edition and released it free to the world, [here](http://www.newardassociates.com/files/SSCLI2.pdf). The Draft, if you're curious, is [here](http://www.newardassociates.com/files/SSCLI2Internals-DRAFT.pdf).
