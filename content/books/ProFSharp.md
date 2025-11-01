@@ -9,4 +9,4 @@ status=published
 
 Professional F# 2.0 was the pinnacle of my time in the F# community. Written with three other gentlemen (all of them way smarter than I), we explored F# from a variety of different lenses, bringing to bear differing thoughts and opinions and perspectives on a language that itself wants to unify the worlds of objects and functions into a single, seamless whole.
 
-Wiley appears to have discontinued sales of the book, so I make my copy of the PDF available [here](http://www.newardassociates.com/files/WroxProF#_ReviewCopy_89.pdf). It was written for F# 2.0, so its a few versions behind at this point, but it still might be a good starting point for people looking to pick up the language.
+Wiley appears to have discontinued sales of the book, so I make my copy of the PDF available [here](https://www.newardassociates.com/files/WroxProF%23_ReviewCopy_89.pdf). It was written for F# 2.0, so its a few versions behind at this point, but it still might be a good starting point for people looking to pick up the language.
