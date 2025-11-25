@@ -2,7 +2,7 @@ title=Busy Java Developer's Guide to the JDK Tools
 type=talk
 audience=For any intermediate Java (2 or more years) audience, as a 90-minute presentation.
 tags=presentation, jvm,languages,concepts
-date=2025-06-20
+date=2025-11-24
 status=published
 ~~~~~~
 

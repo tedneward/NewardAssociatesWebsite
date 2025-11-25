@@ -2,7 +2,7 @@ title=Busy Developer's Guide to Zig
 type=talk
 audience=For any intermediate developer (2 or more years) audience
 tags=presentation, concepts,developer,language,system
-date=2025-06-20
+date=2025-11-24
 status=published
 ~~~~~~
 

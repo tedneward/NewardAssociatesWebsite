@@ -2,7 +2,7 @@ title=Busy Java Developer's Guide to Cryptography
 type=talk
 audience=For any beginning to intermediate Java audience, as 2 90-minute presentations or a half-day tutorial.
 tags=presentation, api,java
-date=2025-06-20
+date=2025-11-24
 status=published
 ~~~~~~
 

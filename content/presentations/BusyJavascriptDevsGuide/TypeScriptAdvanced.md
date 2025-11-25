@@ -2,7 +2,7 @@ title=Busy TypeScript Developer's Guide to Advanced TypeScript
 type=talk
 audience=For any intermediate developer (2 or more years) audience
 tags=presentation, javascript,nodejs,web
-date=2025-06-20
+date=2025-11-24
 status=published
 ~~~~~~
 

@@ -2,7 +2,7 @@ title=Busy Java Developer's Guide to JVM Bytecode
 type=talk
 audience=For any intermediate Java (2 or more years) audience
 tags=presentation, jvm,assembly,virtual machines
-date=2025-06-20
+date=2025-11-24
 status=published
 ~~~~~~
 

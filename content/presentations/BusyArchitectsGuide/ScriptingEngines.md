@@ -2,7 +2,7 @@ title=Busy Architect's Guide   to Scripting Engines
 type=talk
 audience=For any intermediate (2 or more years) architect audience
 tags=presentation, architecture,enterprise,languages
-date=2025-06-20
+date=2025-11-24
 status=published
 ~~~~~~
 

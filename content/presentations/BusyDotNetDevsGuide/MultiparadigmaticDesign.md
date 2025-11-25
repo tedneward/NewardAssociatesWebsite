@@ -2,7 +2,7 @@ title=Busy .NET Developer's Guide to Multiparadigmatic Design in C#
 type=talk
 audience=For any intermediate C# (2 or more years) audience
 tags=presentation, c#,clr,design
-date=2025-06-20
+date=2025-11-24
 status=published
 ~~~~~~
 

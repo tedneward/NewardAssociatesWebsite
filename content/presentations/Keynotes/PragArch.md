@@ -2,7 +2,7 @@ title=Pragmatic Architecture
 type=talk
 audience=For any audience, recommended as a keynote presentation
 tags=presentation, keynote,architecture
-date=2025-06-20
+date=2025-11-24
 status=published
 ~~~~~~
 

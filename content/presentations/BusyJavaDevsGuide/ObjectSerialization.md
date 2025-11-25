@@ -2,7 +2,7 @@ title=Busy Java Developer's Guide to Object Serialization
 type=talk
 audience=For any intermediate Java (2 or more years) audience
 tags=presentation, java,api,jvm
-date=2025-06-20
+date=2025-11-24
 status=published
 ~~~~~~
 
