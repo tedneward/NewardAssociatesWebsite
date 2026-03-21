@@ -2,7 +2,7 @@ title=Busy Developer's Guide to the Ur-Languages
 type=talk
 audience=For any intermediate developer (2 or more years) audience
 tags=presentation, language,developer
-date=2025-11-24
+date=2026-03-20
 status=published
 ~~~~~~
 

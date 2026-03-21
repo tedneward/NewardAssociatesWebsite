@@ -2,7 +2,7 @@ title=Regretful Code, Regretful Career
 type=talk
 audience=For any software developer audience and their management, recommended as a keynote presentation
 tags=presentation, keynote,psychology,management
-date=2025-11-24
+date=2026-03-20
 status=published
 ~~~~~~
 

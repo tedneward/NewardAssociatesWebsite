@@ -2,7 +2,7 @@ title=Busy Javascript Developer's Guide to V8 Bytecode
 type=talk
 audience=For any intermediate developer (2 or more years) audience
 tags=presentation, languages,javascript,virtual machines
-date=2025-11-24
+date=2026-03-20
 status=published
 ~~~~~~
 

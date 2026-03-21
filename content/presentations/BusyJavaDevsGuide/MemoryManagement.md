@@ -2,7 +2,7 @@ title=Busy Java Developer's Guide to Memory Management
 type=talk
 audience=For any intermediate Java developer (2 or more years) audience
 tags=presentation, jvm,virtual machine,memory management
-date=2025-11-24
+date=2026-03-20
 status=published
 ~~~~~~
 

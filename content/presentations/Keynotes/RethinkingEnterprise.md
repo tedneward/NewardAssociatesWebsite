@@ -2,7 +2,7 @@ title=Rethinking "Enterprise"
 type=talk
 audience=For any audience, as a keynote presentation
 tags=presentation, keynote,enterprise
-date=2025-11-24
+date=2026-03-20
 status=published
 ~~~~~~
 
