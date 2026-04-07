@@ -2,7 +2,7 @@ title=Busy Manager's Guide to Interviewing
 type=talk
 audience=For new or intermediate (2 or more years) technical management audience
 tags=presentation, management
-date=2026-03-20
+date=2026-04-07
 status=published
 ~~~~~~
 

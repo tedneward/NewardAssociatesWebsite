@@ -2,7 +2,7 @@ title=Busy Manager's Guide to Decisions
 type=talk
 audience=For any new manager or intermediate developer (2 or more years) audience
 tags=presentation, concepts,management,psychology,philosophy
-date=2026-03-20
+date=2026-04-07
 status=published
 ~~~~~~
 

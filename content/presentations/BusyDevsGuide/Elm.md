@@ -2,7 +2,7 @@ title=Busy Developer's Guide to Elm
 type=talk
 audience=For any intermediate (2+ years) developer audience
 tags=presentation, language,functional,developer,user interface
-date=2026-03-20
+date=2026-04-07
 status=published
 ~~~~~~
 

@@ -2,7 +2,7 @@ title=Embracing (Technology) History
 type=talk
 audience=For any audience, recommended as a keynote presentation.
 tags=presentation, keynote,language
-date=2026-03-20
+date=2026-04-07
 status=published
 ~~~~~~
 

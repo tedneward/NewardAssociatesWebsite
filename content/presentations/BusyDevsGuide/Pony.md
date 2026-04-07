@@ -2,7 +2,7 @@ title=Busy Developer's Guide to Pony
 type=talk
 audience=For any intermediate developer (2 or more years) audience
 tags=presentation, concepts,developer
-date=2026-03-20
+date=2026-04-07
 status=published
 ~~~~~~
 

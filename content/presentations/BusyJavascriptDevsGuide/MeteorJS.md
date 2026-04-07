@@ -2,7 +2,7 @@ title=Busy Javascript Developer's Guide to MeteorJS
 type=talk
 audience=For any beginning to intermediate Javascript developer (6+ months' experience) audience
 tags=presentation, javascript,nodejs,web
-date=2026-03-20
+date=2026-04-07
 status=published
 ~~~~~~
 

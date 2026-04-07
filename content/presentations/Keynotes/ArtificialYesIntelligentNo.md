@@ -2,7 +2,7 @@ title=AI: Artificial, Yes; Intelligent, No
 type=talk
 audience=For any audience, recommended as a keynote presentation.
 tags=presentation, keynote,ai
-date=2026-03-20
+date=2026-04-07
 status=published
 ~~~~~~
 

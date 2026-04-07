@@ -2,7 +2,7 @@ title=Busy Javascript Developer's Guide to LoopbackJS
 type=talk
 audience=For any intermediate developer (2 or more years) audience
 tags=presentation, javascript,nodejs,web
-date=2026-03-20
+date=2026-04-07
 status=published
 ~~~~~~
 

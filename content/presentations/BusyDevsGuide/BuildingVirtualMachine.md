@@ -2,7 +2,7 @@ title=Busy Developer's Guide to Building A Bytecode Virtual Machine
 type=talk
 audience=For any intermediate developer (2 or more years) audience
 tags=presentation, languages,virtual machines,developer
-date=2026-03-20
+date=2026-04-07
 status=published
 ~~~~~~
 
