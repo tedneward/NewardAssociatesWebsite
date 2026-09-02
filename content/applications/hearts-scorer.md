@@ -1,5 +1,6 @@
 title=Hearts Scorer
 type=application
+tags=ios, android, mobile, application, card game
 image=hearts-scorer.png
 applelink=https://placeholder.com
 googlelink=https://placeholder.com
