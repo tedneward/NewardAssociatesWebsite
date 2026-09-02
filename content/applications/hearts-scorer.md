@@ -5,6 +5,7 @@ image=hearts-scorer.png
 applelink=https://placeholder.com
 googlelink=https://placeholder.com
 description=An application for scoring a traditional card game of Hearts.
+status=published
 ~~~~~~
 
 Perfect for groups playing Hearts, particularly on a regular basis, including tournaments and competitive matches.
