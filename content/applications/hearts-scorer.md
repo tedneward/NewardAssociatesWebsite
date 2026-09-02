@@ -1,11 +1,10 @@
 title=Hearts Scorer
 type=app
 image=hearts-scorer.png
-applelink=
-googlelink=
+applelink=https://placeholder.com
+googlelink=https://placeholder.com
+description=An application for scoring a traditional card game of Hearts.
 ~~~~~~
-
-An application to score a traditional card game of Hearts.
 
 Perfect for groups playing Hearts, particularly on a regular basis, including tournaments and competitive matches.
 
