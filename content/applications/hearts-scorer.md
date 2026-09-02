@@ -1,5 +1,5 @@
 title=Hearts Scorer
-type=app
+type=application
 image=hearts-scorer.png
 applelink=https://placeholder.com
 googlelink=https://placeholder.com
