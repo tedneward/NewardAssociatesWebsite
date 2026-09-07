@@ -9,6 +9,7 @@ Ted's done a ton of projects over his career. These are some of them; details ar
 
 <ul class="nav nav-list">
   <li class="nav-header">Management</li>
+    <li><a href="#cr">Strategic AI Management</a></li>
     <li><a href="#rmtc">Technology Culture Management</a></li>
     <li><a href="#rmps">Platform Strategy Management</a></li>
     <li><a href="#ssst">Solutions Application Engineering Development Management</a></li>
@@ -17,6 +18,7 @@ Ted's done a ton of projects over his career. These are some of them; details ar
     <li><a href="#itrellis">CTO - Software Development and Management Consulting</a></li>
     <li><a href="#ltl">CTO - Women's Fashion E-Commerce Portal</a></li>
   <li class="nav-header">Consultation</li>
+    <li><a href="#c1sde">Senior Distinguished Engineer</a></li>
     <li><a href="#sc">Developer Marketing Consulting - Software Tools</a></li>
     <li><a href="#awp">IT Management Consulting - Manufacturing</a></li>
     <li><a href="#sig">IT Leadership - Crop Insurance</a></li>
@@ -63,8 +65,29 @@ Ted's done a ton of projects over his career. These are some of them; details ar
     <li><a href="#tv">C++ Developer - Manufacturing Software</a></li>
 </ul>
 
+<div class="row-fluid" id="cr">
+  <h3>Accounting - Remote / Los Angeles, CA</h3>
+  <h4>Strategic AI Team Management</h4>
+  <p></p>
+</div>
+<div class="row-fluid" id="c1sde">
+  <h3>Financial Services and Products - Remote / Plano, TX</h3>
+  <h4>Senior Distinguished Engineer</h4>
+  <p>As a Senior Distinguished Engineer, I was a part of a community of technical experts working to define the future of banking in the cloud, working alongside a team of developers, machine learning experts, product managers and people leaders. Distinguished Engineers are leading experts in their domains, helping devise practical and reusable solutions to complex problems, and while there I drove innovation at multiple levels, helping optimize business outcomes while driving towards strong technology solutions. I worked to promote a culture of engineering excellence, and strike the right balance between lending expertise and providing an inclusive environment where the ideas of others can be heard and championed. You will lead the way in creating next-generation talent for Capital One Tech, mentoring internal talent and actively recruiting to keep building our community. Distinguished Engineers are expected to lead through technical contribution, and I operated as a trusted advisor for key technologies, platforms and capability domains, creating clear and concise communications, code samples, blog posts and other material to share knowledge both inside and outside the organization.  I was able to work with teams across the company to create real-time and intelligent finance through an AI-powered platform for end-to-end business process automation, offering transparent, real-time workflow observability with natural language data interactions. You won't just execute a roadmap, you will be a strategist defining which modern technologies will solve problems stakeholders haven’t even imagined yet.</p>
+  <p>Key responsibilities included:
+    <ul><li>Articulate and evangelize a bold technical vision for your domain</li>
+        <li>Decompose complex problems into practical and operational solutions</li>
+        <li>Ensure the quality of technical design and implementation</li>
+        <li>Serve as an authoritative expert on non-functional system characteristics, such as performance, scalability and operability</li>
+        <li>Continue learning and injecting advanced technical knowledge into the community</li>
+        <li>Handle several projects simultaneously, balancing time to maximize impact</li>
+        <li>Act as a role model and mentor within the tech community, helping to coach and strengthen the technical expertise and know-how of the engineering and product community</li>
+        <li>Be hands-on and at the forefront of high-order problems such as multi-tenancy, right-time insights, centralized anomaly detection and action, and agentic patterns for Finance business orchestration.</li>
+        <li>Mentor and upskill the senior engineering talent within the organization, fostering a culture of technical excellence and innovation, and ensuring our innovation is not just fast, but scalable and resilient.</li>
+    </ul>
+</div>
 <div class="row-fluid" id="rmtc">
-  <h3>Financial Services and Products - Detroit, MI</h3>
+  <h3>Financial Services and Products - Remote / Detroit, MI</h3>
   <h4>Technology Culture Management</h4>
   <p></p>
 </div>
