@@ -1,3 +1,10 @@
+title=Privacy Policy
+date=2026-09-11
+type=page
+tags=page
+status=published
+~~~~~~
+
 # Privacy Policy
 *Last updated: September 11, 2026*
 
