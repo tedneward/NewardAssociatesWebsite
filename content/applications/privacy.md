@@ -4,8 +4,6 @@ type=page
 tags=page
 status=published
 ~~~~~~
-
-# Privacy Policy
 *Last updated: September 11, 2026*
 
 At **Neward & Associates**, we respect your privacy. Our software is designed so that we collect only the minimal information necessary to function, and we do not sell or share your personal information.
