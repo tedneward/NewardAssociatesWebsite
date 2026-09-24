@@ -29,5 +29,4 @@ Game options:
 - Give the last place player a change: Hit 100 points exactly, reset back to zero!
 - Faster game? Set the threshold to 50 points. Or make a marathon of it at 250.
 
-The app is free, with no ads and no in-app purchases.
-
+The app has no ads and no in-app purchases--buy it once for $0.99, and its yours forever with no additional charges or subscriptions.
