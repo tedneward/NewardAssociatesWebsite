@@ -29,4 +29,4 @@ Game options:
 - Taunts! The app helps keep it all competitive by chirping from the sidelines.
 - Statistics! Which teams do best? Who makes their blind nullo bids more often?
 
-The app is $0.99, with no ads and no in-app purchases.
+The app is $0.99, with no ads and no in-app purchases. Buy it once, use it forever.

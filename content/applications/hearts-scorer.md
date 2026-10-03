@@ -26,7 +26,7 @@ Game options:
 - Pass automatically calculated, using either of two algorithms (left/across/right, or left/right/across)
 - Jack of diamonds (-10 to whomever takes it)
 - Shoot the Moon rules: +26 to everyone, -26 to the shooter, or choose on the spot!
-- Give the last place player a change: Hit 100 points exactly, reset back to zero!
+- Give the last place player a chance: Hit 100 points exactly, reset back to zero!
 - Faster game? Set the threshold to 50 points. Or make a marathon of it at 250.
 
 The app has no ads and no in-app purchases--buy it once for $0.99, and its yours forever with no additional charges or subscriptions.
