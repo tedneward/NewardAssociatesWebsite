@@ -4,7 +4,13 @@
 
 <h2>${content.title}</h2>
 
-<p><img src="./${content.url}/icon.png" style="float:left; padding: 20px 20px 20px 20px; width: 200px; height: 200px;" /> ${content.body}</p>
+<p><img src="./icon.png" style="float:left; padding: 20px 20px 20px 20px; width: 200px; height: 200px;" /> ${content.body}</p>
+
+<p>
+<#list screenshots as screenshot>
+<img src="./${screenshot}" style="float:left; padding: 20px 20px 20px 20px;" />
+</#list>
+</p>
 
 <p><a href="${content.applelink}">Apple AppStore</a> | <a href="${content.googlelink}">Google Play Store</a></p>
 

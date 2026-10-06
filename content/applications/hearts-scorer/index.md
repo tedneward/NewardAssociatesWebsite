@@ -1,10 +1,10 @@
 title=Hearts Scorer
 type=application
 tags=ios, android, mobile, application, card game
-image=hearts-scorer.png
 applelink=https://placeholder.com
 googlelink=https://placeholder.com
 description=An application for scoring a traditional card game of Hearts.
+screenshots=screenshot1.png,screenshot2.png,screenshot3.png,screenshot4.png
 status=published
 ~~~~~~
 
