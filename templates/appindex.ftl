@@ -6,7 +6,7 @@
 A collection of mobile applications, utilities, and maybe even a few games. Available either on the Web or in the relevant mobile app stores.
 
 <#list applications?sort_by("title") as app>
-    <h3><b><a href="/${app.uri}">${app.title}</a></b></h3>
+    <h3><b><a href="/${app.uri}/index.html">${app.title}</a></b></h3>
 
     <#if app.description??><p>${app.description}</p></#if>
 </#list>
