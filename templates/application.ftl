@@ -7,7 +7,7 @@
 <p><img src="./icon.png" style="float:left; padding: 20px 20px 20px 20px; width: 200px; height: 200px;" /> ${content.body}</p>
 
 <p>
-<#list screenshots as screenshot>
+<#list content.screenshots as screenshot>
 <img src="${content.uri}/${screenshot}" style="float:left; padding: 20px 20px 20px 20px;" />
 </#list>
 </p>
