@@ -8,7 +8,7 @@
 
 <p>
 <#list screenshots as screenshot>
-<img src="./${screenshot}" style="float:left; padding: 20px 20px 20px 20px;" />
+<img src="${content.uri}/${screenshot}" style="float:left; padding: 20px 20px 20px 20px;" />
 </#list>
 </p>
 
