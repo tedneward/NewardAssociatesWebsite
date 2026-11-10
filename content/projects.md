@@ -30,8 +30,8 @@ Ted's done a ton of projects over his career. These are some of them; details ar
     <li><a href="#cmp">EJB Consultation - Remote</a></li>
     <li><a href="#mm">CORBA Analysis/Consultation - Mining Equipment</a></li>
   <li class="nav-header">Training</li>
-    <li><a href="#c1sde">Senior Distinguished Engineer</a></li>
     <li><a href="#uw">Classroom Instructor - College Education</a></li>
+    <li><a href="#c1sde">Senior Distinguished Engineer</a></li>
     <li><a href="#bc">Classroom Instructor - College Education</a></li>
     <li><a href="#ps">Course Author - Online Training</a></li>
     <li><a href="#dm">Course Author - Onsite Training</a></li>
@@ -69,14 +69,14 @@ Ted's done a ton of projects over his career. These are some of them; details ar
 <div class="row-fluid" id="cr">
   <h3>Accounting - Remote / Los Angeles, CA</h3>
   <h4>Strategic AI Team Management (Fractional)</h4>
-  <p>Oversaw the establishment of core processes and functionality for a team of engineers heavily leveraging AI both in process and in runtime use. Apps went through two releases to stakeholders as a ramp-up</p>
+  <p>Oversaw the establishment of core processes and functionality for a team of engineers heavily leveraging AI both in process and in runtime use. Apps went through two releases to stakeholders as a ramp-up. Interviewed new candidates for the team, set accountability for software delivery expectations, and brought SDLC realities into the "vibe-coded AI will solve everything" hype. Interviewed and mentored the eventual team lead replacement, and handoff occurred without a hitch. In four months, the group doubled in size, both in terms of personnel and applications being shipped.</p>
 </div>
 
 <div class="row-fluid" id="c1sde">
   <h3>Financial Services and Products - Remote / Plano, TX</h3>
   <h4>Senior Distinguished Engineer</h4>
-  <p>As a Senior Distinguished Engineer, I was a part of a community of technical experts working to define the future of banking in the cloud, working alongside a team of developers, machine learning experts, product managers and people leaders. Distinguished Engineers are leading experts in their domains, helping devise practical and reusable solutions to complex problems, and while there I drove innovation at multiple levels, helping optimize business outcomes while driving towards strong technology solutions. I worked to promote a culture of engineering excellence, and strike the right balance between lending expertise and providing an inclusive environment where the ideas of others can be heard and championed. You will lead the way in creating next-generation talent for Capital One Tech, mentoring internal talent and actively recruiting to keep building our community. Distinguished Engineers are expected to lead through technical contribution, and I operated as a trusted advisor for key technologies, platforms and capability domains, creating clear and concise communications, code samples, blog posts and other material to share knowledge both inside and outside the organization.  I was able to work with teams across the company to create real-time and intelligent finance through an AI-powered platform for end-to-end business process automation, offering transparent, real-time workflow observability with natural language data interactions. You won't just execute a roadmap, you will be a strategist defining which modern technologies will solve problems stakeholders haven’t even imagined yet.</p>
-  <p>Key responsibilities included:
+  <p>As a Senior Distinguished Engineer, I was a part of a community of technical experts working to define the future of banking in the cloud, working alongside a team of developers, machine learning experts, product managers and people leaders. Engaged with numerous engineering teams across the org, including a project rescue around a DSL-driven legacy-replacement system, and a second legacy rescue that had been attempted no less than six times previous in its 25-year existence. Both multi-year project efforts were trending up when I departed.</p>
+  <p>(From the job description) Key responsibilities included:
     <ul><li>Articulate and evangelize a bold technical vision for your domain</li>
         <li>Decompose complex problems into practical and operational solutions</li>
         <li>Ensure the quality of technical design and implementation</li>
@@ -89,16 +89,22 @@ Ted's done a ton of projects over his career. These are some of them; details ar
     </ul>
 </div>
 
+<div class="row-fluid" id="uw">
+  <h3>Undergraduate Education – Seattle, WA</h3>
+  <h4>Adjunct/Guest Faculty: Mobile Development</h4>
+  <p>I teach for the University of Washington, Seattle, offering graded courses on a variety of software development topics to the undergrads as part of the iSchool (Information School) department. Principally I focus on mobile development, both iOS and Android, though I have also taught networking, databases, and SDLC as needed to fill as needed when full-time faculty cannot. Close to a thousand undergrads, some of whom have gone on to create startups, have come and gone through my classroom, and many return to me for recommendation letters for their graduate school efforts.</p>
+</div>
+
 <div class="row-fluid" id="rmtc">
   <h3>Financial Services and Products - Remote / Detroit, MI</h3>
   <h4>Technology Culture Management</h4>
-  <p></p>
+  <p>After having built the "Platform Strategy" team (below), I was tapped by the CIO to create a new organization we called the "Technology Culture" team. Unlike the previous engagement, this team would not be focused on technology, per se, but on the people of technology: How do we recruit and interview them, how do we mentor them, how do we keep them sharp, and so on. Built during the COVID pandemic, the team also established many of the practices and policies that the company embraced organization-wide (2500 engineers) to enable a new remote-first work approach for a company that had always historically been office-first. Partnering with Recruiting, HR, and Engineering management, we reduced the unnecessary interview cycles, cleaned out the job description database, established a mentorship practice, created a Developer Relations team to partner with the Recruiting team to engage at live events, and R&D'ed a prototype for matching incoming resumes to available positions using AI techniques five years before the large language model approach and AI craze.</p>
 </div>
 
 <div class="row-fluid" id="rmps">
-  <h3>Financial Services and Products - Detroit, MI</h3>
+  <h3>Financial Services and Products - Remote / Detroit, MI</h3>
   <h4>Platform Strategy Management</h4>
-  <p></p>
+  <p>I was hired with a request: create a team of architects dedicated to the central problem of the technology org at the time: How do we create an API that allows third-party clients to utilize the company as "Mortgatge-as-a-Service" in a coherent and intelligent way, when the rest of the technology is implemented as scattered and distinctly different APIs across twelve different "pillars" and close to 1500 engineers? Within six months, we had our team, our vision and architecture, and our prototype was rolling out.</p>
 </div>
 
 <div class="row-fluid" id="ssst">
@@ -165,12 +171,6 @@ Ted's done a ton of projects over his career. These are some of them; details ar
   <h3>Women's Fashion E-Commerce – Redmond, WA</h3>
   <h4>CTO</h4>
   <p>As the CTO of the company, I was asked to develop the initial MVP for the site, and helped get the company off the ground. Since we were a new startup, I was also routinely asked to participate in funding meetings and startup pitch meetings.</p>
-</div>
-
-<div class="row-fluid" id="uw">
-  <h3>Undergraduate Education – Seattle, WA</h3>
-  <h4>Guest Faculty: Mobile Development</h4>
-  <p>I am guest faculty for the University of Washington, teaching graded courses on a variety of software development topics to the undergrads as part of the iSchool curriculum there.</p>
 </div>
 
 <div class="row-fluid" id="mr">
