@@ -158,13 +158,13 @@ Ted's done a ton of projects over his career. These are some of them; details ar
 <div class="row-fluid" id="sav">
   <h3>Retail Sales - Seattle, WA</h3>
   <h4>Automated Test POC</h4>
-  <p>Large (Fortune 500) company struggling with application development advancement was looking for ways to improve their software quality. As part of their overall request around improvement, they asked for a proof-of-concept demonstrating how to leverage automated testing tools around both their WebForms application and a (separate) WinForms one.</p>
+  <p>Large (Fortune 500) company struggling with application development advancement was looking for ways to improve their software quality. As part of their overall request around improvement, they asked for a proof-of-concept demonstrating how to leverage automated testing tools around both their .NET WebForms application and a (separate) WinForms one.</p>
 </div>
 
 <div class="row-fluid" id="itrellis">
   <h3>Consulting Company – Bellevue, WA</h3>
   <h4>CTO</h4>
-  <p>As the CTO of the company, I was responsible for the growth of the team (from zero developers to close to twenty at last count), the delivery quality of the teams, technical mentoring and growth, and establishing a company culture based around autonomy, competence, and relatedness.</p>
+  <p>As the CTO of the company, I was responsible for the growth of the team (from zero developers to just under thirty), the delivery quality of the teams, technical mentoring and growth, and establishing a company culture based around autonomy, competence, and relatedness. I met with clients and potential clients to ascertain their needs, propose solutions and negotiate contracts, as well as follow-ups to ensure their needs were being met and our teams' obstacles were being overcome. I built out processes for interviewing and hiring our team, as well as a mentoring program for juniors that gained us very well-grounded engineers early in their careers.</p>
 </div>
 
 <div class="row-fluid" id="ltl">
