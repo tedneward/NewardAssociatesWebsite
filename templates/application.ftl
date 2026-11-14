@@ -16,6 +16,8 @@
 
 <p><a href="${content.applelink}">Apple AppStore</a> | <a href="${content.googlelink}">Google Play Store</a></p>
 
+<br />
+
 <p>Looking for support? <a href="mailto:support@newardassociates.com">Email us</a> | <a href="/applications/privacy.html">Privacy policy</a></p>
 
 <#include "footer.ftl">
