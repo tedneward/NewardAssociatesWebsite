@@ -30,3 +30,11 @@ Game options:
 - Faster game? Set the threshold to 50 points. Or make a marathon of it at 250.
 
 The app has no ads and no in-app purchases--buy it once for $0.99, and its yours forever with no additional charges or subscriptions.
+
+For the Developer-curious:
+
+- written in Flutter
+- data is stored using a SQLite database file in the cloud-storage-aware directory within its installation directory
+- icon generated using Stability Matrix and ComfyUI on a MacBookPro
+- screenshots captured during CI/CD process
+- coding harness usage: none for main screen; supporting tabs used OpenCode, using qwen3-coder, qwen3.5, and Big Pickle models
