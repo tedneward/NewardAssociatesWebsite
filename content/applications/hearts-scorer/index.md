@@ -1,7 +1,7 @@
 title=Hearts Scorer
 type=application
 tags=ios, android, mobile, application, card game
-applelink=https://placeholder.com
+applelink=https://apps.apple.com/us/app/heartsscorer/id6807696352
 googlelink=https://play.google.com/store/apps/details?id=com.newardassociates.hearts_scorer&hl=en_US
 description=An application for scoring a traditional card game of Hearts.
 screenshots=screenshot1.png,screenshot2.png,screenshot3.png,screenshot4.png
